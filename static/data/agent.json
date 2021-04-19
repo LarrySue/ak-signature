@@ -1,0 +1,4374 @@
+{
+  "dataVersion": 2021041501,
+  "agents": [
+    {
+      "id": 6010001,
+      "name": "推进之王",
+      "class": 0,
+      "star": 6,
+      "skills": [
+        {
+          "id": 0,
+          "name": "冲锋号令·γ型",
+          "rank": 0
+        },
+        {
+          "id": 0,
+          "name": "跃空锤",
+          "rank": 0
+        },
+        {
+          "id": 0,
+          "name": "碎颅击",
+          "rank": 0
+        }
+      ],
+      "isSelected": false,
+      "type": 0,
+      "potential": 1,
+      "elite": 0,
+      "lv": 1
+    },
+    {
+      "id": 6010002,
+      "name": "风笛",
+      "class": 0,
+      "star": 6,
+      "skills": [
+        {
+          "id": 0,
+          "name": "迅捷打击·γ型",
+          "rank": 0
+        },
+        {
+          "id": 0,
+          "name": "高效冲击",
+          "rank": 0
+        },
+        {
+          "id": 0,
+          "name": "闭膛连发",
+          "rank": 0
+        }
+      ],
+      "isSelected": false,
+      "type": 0,
+      "potential": 1,
+      "elite": 0,
+      "lv": 1
+    },
+    {
+      "id": 6010003,
+      "name": "嵯峨",
+      "class": 0,
+      "star": 6,
+      "skills": [
+        {
+          "id": 0,
+          "name": "冲锋号令·γ型",
+          "rank": 0
+        },
+        {
+          "id": 0,
+          "name": "除恶",
+          "rank": 0
+        },
+        {
+          "id": 0,
+          "name": "怒目",
+          "rank": 0
+        }
+      ],
+      "isSelected": false,
+      "type": 0,
+      "potential": 1,
+      "elite": 0,
+      "lv": 1
+    },
+    {
+      "id": 6020001,
+      "name": "能天使",
+      "class": 1,
+      "star": 6,
+      "skills": [
+        {
+          "id": 0,
+          "name": "冲锋模式",
+          "rank": 0
+        },
+        {
+          "id": 0,
+          "name": "扫射模式",
+          "rank": 0
+        },
+        {
+          "id": 0,
+          "name": "过载模式",
+          "rank": 0
+        }
+      ],
+      "isSelected": false,
+      "type": 0,
+      "potential": 1,
+      "elite": 0,
+      "lv": 1
+    },
+    {
+      "id": 6020002,
+      "name": "黑",
+      "class": 1,
+      "star": 6,
+      "skills": [
+        {
+          "id": 0,
+          "name": "强弩",
+          "rank": 0
+        },
+        {
+          "id": 0,
+          "name": "暮眼锐瞳",
+          "rank": 0
+        },
+        {
+          "id": 0,
+          "name": "战术的终结",
+          "rank": 0
+        }
+      ],
+      "isSelected": false,
+      "type": 0,
+      "potential": 1,
+      "elite": 0,
+      "lv": 1
+    },
+    {
+      "id": 6020003,
+      "name": "W",
+      "class": 1,
+      "star": 6,
+      "skills": [
+        {
+          "id": 0,
+          "name": "红桃K",
+          "rank": 0
+        },
+        {
+          "id": 0,
+          "name": "惊吓盒子",
+          "rank": 0
+        },
+        {
+          "id": 0,
+          "name": "D12",
+          "rank": 0
+        }
+      ],
+      "isSelected": false,
+      "type": 0,
+      "potential": 1,
+      "elite": 0,
+      "lv": 1
+    },
+    {
+      "id": 6020004,
+      "name": "早露",
+      "class": 1,
+      "star": 6,
+      "skills": [
+        {
+          "id": 0,
+          "name": "攻击力强化·γ型",
+          "rank": 0
+        },
+        {
+          "id": 0,
+          "name": "分裂射击",
+          "rank": 0
+        },
+        {
+          "id": 0,
+          "name": "雪崩击",
+          "rank": 0
+        }
+      ],
+      "isSelected": false,
+      "type": 0,
+      "potential": 1,
+      "elite": 0,
+      "lv": 1
+    },
+    {
+      "id": 6020005,
+      "name": "迷迭香",
+      "class": 1,
+      "star": 6,
+      "skills": [
+        {
+          "id": 0,
+          "name": "思维膨大",
+          "rank": 0
+        },
+        {
+          "id": 0,
+          "name": "末梢阻断",
+          "rank": 0
+        },
+        {
+          "id": 0,
+          "name": "\"如你所愿\"",
+          "rank": 0
+        }
+      ],
+      "isSelected": false,
+      "type": 0,
+      "potential": 1,
+      "elite": 0,
+      "lv": 1
+    },
+    {
+      "id": 6020006,
+      "name": "空弦",
+      "class": 1,
+      "star": 6,
+      "skills": [
+        {
+          "id": 0,
+          "name": "箭矢·散逸",
+          "rank": 0
+        },
+        {
+          "id": 0,
+          "name": "箭矢·追猎",
+          "rank": 0
+        },
+        {
+          "id": 0,
+          "name": "箭矢·暴风",
+          "rank": 0
+        }
+      ],
+      "isSelected": false,
+      "type": 0,
+      "potential": 1,
+      "elite": 0,
+      "lv": 1
+    },
+    {
+      "id": 6020007,
+      "name": "灰烬",
+      "class": 1,
+      "star": 6,
+      "skills": [
+        {
+          "id": 0,
+          "name": "支援射击",
+          "rank": 0
+        },
+        {
+          "id": 0,
+          "name": "突击战术",
+          "rank": 0
+        },
+        {
+          "id": 0,
+          "name": "攻坚榴弹",
+          "rank": 0
+        }
+      ],
+      "isSelected": false,
+      "type": 0,
+      "potential": 1,
+      "elite": 0,
+      "lv": 1
+    },
+    {
+      "id": 6030001,
+      "name": "银灰",
+      "class": 2,
+      "star": 6,
+      "skills": [
+        {
+          "id": 0,
+          "name": "强力击·γ型",
+          "rank": 0
+        },
+        {
+          "id": 0,
+          "name": "雪境生存法则",
+          "rank": 0
+        },
+        {
+          "id": 0,
+          "name": "真银斩",
+          "rank": 0
+        }
+      ],
+      "isSelected": false,
+      "type": 0,
+      "potential": 1,
+      "elite": 0,
+      "lv": 1
+    },
+    {
+      "id": 6030002,
+      "name": "斯卡蒂",
+      "class": 2,
+      "star": 6,
+      "skills": [
+        {
+          "id": 0,
+          "name": "迅捷打击·γ型",
+          "rank": 0
+        },
+        {
+          "id": 0,
+          "name": "跃浪击",
+          "rank": 0
+        },
+        {
+          "id": 0,
+          "name": "涌潮悲歌",
+          "rank": 0
+        }
+      ],
+      "isSelected": false,
+      "type": 0,
+      "potential": 1,
+      "elite": 0,
+      "lv": 1
+    },
+    {
+      "id": 6030003,
+      "name": "陈",
+      "class": 2,
+      "star": 6,
+      "skills": [
+        {
+          "id": 0,
+          "name": "鞘击",
+          "rank": 0
+        },
+        {
+          "id": 0,
+          "name": "赤霄·拔刀",
+          "rank": 0
+        },
+        {
+          "id": 0,
+          "name": "赤霄·绝影",
+          "rank": 0
+        }
+      ],
+      "isSelected": false,
+      "type": 0,
+      "potential": 1,
+      "elite": 0,
+      "lv": 1
+    },
+    {
+      "id": 6030004,
+      "name": "赫拉格",
+      "class": 2,
+      "star": 6,
+      "skills": [
+        {
+          "id": 0,
+          "name": "新月",
+          "rank": 0
+        },
+        {
+          "id": 0,
+          "name": "弦月",
+          "rank": 0
+        },
+        {
+          "id": 0,
+          "name": "满月",
+          "rank": 0
+        }
+      ],
+      "isSelected": false,
+      "type": 0,
+      "potential": 1,
+      "elite": 0,
+      "lv": 1
+    },
+    {
+      "id": 6030005,
+      "name": "煌",
+      "class": 2,
+      "star": 6,
+      "skills": [
+        {
+          "id": 0,
+          "name": "强力击·γ型",
+          "rank": 0
+        },
+        {
+          "id": 0,
+          "name": "链锯延伸模块",
+          "rank": 0
+        },
+        {
+          "id": 0,
+          "name": "沸腾爆裂",
+          "rank": 0
+        }
+      ],
+      "isSelected": false,
+      "type": 0,
+      "potential": 1,
+      "elite": 0,
+      "lv": 1
+    },
+    {
+      "id": 6030006,
+      "name": "棘刺",
+      "class": 2,
+      "star": 6,
+      "skills": [
+        {
+          "id": 0,
+          "name": "攻击力强化·γ型",
+          "rank": 0
+        },
+        {
+          "id": 0,
+          "name": "护身尖刺",
+          "rank": 0
+        },
+        {
+          "id": 0,
+          "name": "至高之术",
+          "rank": 0
+        }
+      ],
+      "isSelected": false,
+      "type": 0,
+      "potential": 1,
+      "elite": 0,
+      "lv": 1
+    },
+    {
+      "id": 6030007,
+      "name": "史尔特尔",
+      "class": 2,
+      "star": 6,
+      "skills": [
+        {
+          "id": 0,
+          "name": "烈焰魔剑",
+          "rank": 0
+        },
+        {
+          "id": 0,
+          "name": "熔核巨影",
+          "rank": 0
+        },
+        {
+          "id": 0,
+          "name": "黄昏",
+          "rank": 0
+        }
+      ],
+      "isSelected": false,
+      "type": 0,
+      "potential": 1,
+      "elite": 0,
+      "lv": 1
+    },
+    {
+      "id": 6030008,
+      "name": "山",
+      "class": 2,
+      "star": 6,
+      "skills": [
+        {
+          "id": 0,
+          "name": "左勾扫拳",
+          "rank": 0
+        },
+        {
+          "id": 0,
+          "name": "横扫架势",
+          "rank": 0
+        },
+        {
+          "id": 0,
+          "name": "震地碎岩击",
+          "rank": 0
+        }
+      ],
+      "isSelected": false,
+      "type": 0,
+      "potential": 1,
+      "elite": 0,
+      "lv": 1
+    },
+    {
+      "id": 6040001,
+      "name": "伊芙利特",
+      "class": 3,
+      "star": 6,
+      "skills": [
+        {
+          "id": 0,
+          "name": "狂热",
+          "rank": 0
+        },
+        {
+          "id": 0,
+          "name": "炎爆",
+          "rank": 0
+        },
+        {
+          "id": 0,
+          "name": "灼地",
+          "rank": 0
+        }
+      ],
+      "isSelected": false,
+      "type": 0,
+      "potential": 1,
+      "elite": 0,
+      "lv": 1
+    },
+    {
+      "id": 6040002,
+      "name": "艾雅法拉",
+      "class": 3,
+      "star": 6,
+      "skills": [
+        {
+          "id": 0,
+          "name": "二重咏唱",
+          "rank": 0
+        },
+        {
+          "id": 0,
+          "name": "点燃",
+          "rank": 0
+        },
+        {
+          "id": 0,
+          "name": "火山",
+          "rank": 0
+        }
+      ],
+      "isSelected": false,
+      "type": 0,
+      "potential": 1,
+      "elite": 0,
+      "lv": 1
+    },
+    {
+      "id": 6040003,
+      "name": "莫斯提马",
+      "class": 3,
+      "star": 6,
+      "skills": [
+        {
+          "id": 0,
+          "name": "攻击力强化·γ型",
+          "rank": 0
+        },
+        {
+          "id": 0,
+          "name": "荒时之锁",
+          "rank": 0
+        },
+        {
+          "id": 0,
+          "name": "序时之匙",
+          "rank": 0
+        }
+      ],
+      "isSelected": false,
+      "type": 0,
+      "potential": 1,
+      "elite": 0,
+      "lv": 1
+    },
+    {
+      "id": 6040004,
+      "name": "刻俄柏",
+      "class": 3,
+      "star": 6,
+      "skills": [
+        {
+          "id": 0,
+          "name": "\"很冰的斧\"",
+          "rank": 0
+        },
+        {
+          "id": 0,
+          "name": "\"很热的刀\"",
+          "rank": 0
+        },
+        {
+          "id": 0,
+          "name": "\"很重的枪\"",
+          "rank": 0
+        }
+      ],
+      "isSelected": false,
+      "type": 0,
+      "potential": 1,
+      "elite": 0,
+      "lv": 1
+    },
+    {
+      "id": 6040005,
+      "name": "夕",
+      "class": 3,
+      "star": 6,
+      "skills": [
+        {
+          "id": 0,
+          "name": "工笔入画",
+          "rank": 0
+        },
+        {
+          "id": 0,
+          "name": "泼墨淋漓",
+          "rank": 0
+        },
+        {
+          "id": 0,
+          "name": "写意胜形",
+          "rank": 0
+        }
+      ],
+      "isSelected": false,
+      "type": 0,
+      "potential": 1,
+      "elite": 0,
+      "lv": 1
+    },
+    {
+      "id": 6040006,
+      "name": "异客",
+      "class": 3,
+      "star": 6,
+      "skills": [
+        {
+          "id": 0,
+          "name": "电能之触",
+          "rank": 0
+        },
+        {
+          "id": 0,
+          "name": "聚焦指令",
+          "rank": 0
+        },
+        {
+          "id": 0,
+          "name": "辉煌裂片",
+          "rank": 0
+        }
+      ],
+      "isSelected": false,
+      "type": 0,
+      "potential": 1,
+      "elite": 0,
+      "lv": 1
+    },
+    {
+      "id": 6050001,
+      "name": "闪灵",
+      "class": 4,
+      "star": 6,
+      "skills": [
+        {
+          "id": 0,
+          "name": "信条",
+          "rank": 0
+        },
+        {
+          "id": 0,
+          "name": "自动掩护",
+          "rank": 0
+        },
+        {
+          "id": 0,
+          "name": "教条立场",
+          "rank": 0
+        }
+      ],
+      "isSelected": false,
+      "type": 0,
+      "potential": 1,
+      "elite": 0,
+      "lv": 1
+    },
+    {
+      "id": 6050002,
+      "name": "夜莺",
+      "class": 4,
+      "star": 6,
+      "skills": [
+        {
+          "id": 0,
+          "name": "治疗强化·γ型",
+          "rank": 0
+        },
+        {
+          "id": 0,
+          "name": "法术护盾",
+          "rank": 0
+        },
+        {
+          "id": 0,
+          "name": "圣域",
+          "rank": 0
+        }
+      ],
+      "isSelected": false,
+      "type": 0,
+      "potential": 1,
+      "elite": 0,
+      "lv": 1
+    },
+    {
+      "id": 6060001,
+      "name": "星熊",
+      "class": 5,
+      "star": 6,
+      "skills": [
+        {
+          "id": 0,
+          "name": "战意",
+          "rank": 0
+        },
+        {
+          "id": 0,
+          "name": "荆棘",
+          "rank": 0
+        },
+        {
+          "id": 0,
+          "name": "力之锯",
+          "rank": 0
+        }
+      ],
+      "isSelected": false,
+      "type": 0,
+      "potential": 1,
+      "elite": 0,
+      "lv": 1
+    },
+    {
+      "id": 6060002,
+      "name": "塞雷娅",
+      "class": 5,
+      "star": 6,
+      "skills": [
+        {
+          "id": 0,
+          "name": "急救",
+          "rank": 0
+        },
+        {
+          "id": 0,
+          "name": "药物配置",
+          "rank": 0
+        },
+        {
+          "id": 0,
+          "name": "钙质化",
+          "rank": 0
+        }
+      ],
+      "isSelected": false,
+      "type": 0,
+      "potential": 1,
+      "elite": 0,
+      "lv": 1
+    },
+    {
+      "id": 6060003,
+      "name": "年",
+      "class": 5,
+      "star": 6,
+      "skills": [
+        {
+          "id": 0,
+          "name": "锡灼",
+          "rank": 0
+        },
+        {
+          "id": 0,
+          "name": "铜印",
+          "rank": 0
+        },
+        {
+          "id": 0,
+          "name": "铁御",
+          "rank": 0
+        }
+      ],
+      "isSelected": false,
+      "type": 0,
+      "potential": 1,
+      "elite": 0,
+      "lv": 1
+    },
+    {
+      "id": 6060004,
+      "name": "森蚺",
+      "class": 5,
+      "star": 6,
+      "skills": [
+        {
+          "id": 0,
+          "name": "轻型挂斧",
+          "rank": 0
+        },
+        {
+          "id": 0,
+          "name": "震慑劈砍",
+          "rank": 0
+        },
+        {
+          "id": 0,
+          "name": "钢铁意志",
+          "rank": 0
+        }
+      ],
+      "isSelected": false,
+      "type": 0,
+      "potential": 1,
+      "elite": 0,
+      "lv": 1
+    },
+    {
+      "id": 6060005,
+      "name": "瑕光",
+      "class": 5,
+      "star": 6,
+      "skills": [
+        {
+          "id": 0,
+          "name": "光芒涌动",
+          "rank": 0
+        },
+        {
+          "id": 0,
+          "name": "慑敌辉光",
+          "rank": 0
+        },
+        {
+          "id": 0,
+          "name": "先贤化身",
+          "rank": 0
+        }
+      ],
+      "isSelected": false,
+      "type": 0,
+      "potential": 1,
+      "elite": 0,
+      "lv": 1
+    },
+    {
+      "id": 6060006,
+      "name": "泥岩",
+      "class": 5,
+      "star": 6,
+      "skills": [
+        {
+          "id": 0,
+          "name": "防御力强化·γ型",
+          "rank": 0
+        },
+        {
+          "id": 0,
+          "name": "岩崩锤",
+          "rank": 0
+        },
+        {
+          "id": 0,
+          "name": "秽壤的血脉",
+          "rank": 0
+        }
+      ],
+      "isSelected": false,
+      "type": 0,
+      "potential": 1,
+      "elite": 0,
+      "lv": 1
+    },
+    {
+      "id": 6070001,
+      "name": "安洁莉娜",
+      "class": 6,
+      "star": 6,
+      "skills": [
+        {
+          "id": 0,
+          "name": "秘杖·速充模式",
+          "rank": 0
+        },
+        {
+          "id": 0,
+          "name": "秘杖·微粒模式",
+          "rank": 0
+        },
+        {
+          "id": 0,
+          "name": "秘杖·反重力模式",
+          "rank": 0
+        }
+      ],
+      "isSelected": false,
+      "type": 0,
+      "potential": 1,
+      "elite": 0,
+      "lv": 1
+    },
+    {
+      "id": 6070002,
+      "name": "麦哲伦",
+      "class": 6,
+      "star": 6,
+      "skills": [
+        {
+          "id": 0,
+          "name": "高效制冷模块",
+          "rank": 0
+        },
+        {
+          "id": 0,
+          "name": "激光开采模块",
+          "rank": 0
+        },
+        {
+          "id": 0,
+          "name": "武装打击模块",
+          "rank": 0
+        }
+      ],
+      "isSelected": false,
+      "type": 0,
+      "potential": 1,
+      "elite": 0,
+      "lv": 1
+    },
+    {
+      "id": 6070003,
+      "name": "铃兰",
+      "class": 6,
+      "star": 6,
+      "skills": [
+        {
+          "id": 0,
+          "name": "全力以赴",
+          "rank": 0
+        },
+        {
+          "id": 0,
+          "name": "儿时的舞乐",
+          "rank": 0
+        },
+        {
+          "id": 0,
+          "name": "狐火渺然",
+          "rank": 0
+        }
+      ],
+      "isSelected": false,
+      "type": 0,
+      "potential": 1,
+      "elite": 0,
+      "lv": 1
+    },
+    {
+      "id": 6080001,
+      "name": "阿",
+      "class": 7,
+      "star": 6,
+      "skills": [
+        {
+          "id": 0,
+          "name": "快速射击",
+          "rank": 0
+        },
+        {
+          "id": 0,
+          "name": "爆发剂·γ型",
+          "rank": 0
+        },
+        {
+          "id": 0,
+          "name": "爆发剂·榴莲味",
+          "rank": 0
+        }
+      ],
+      "isSelected": false,
+      "type": 0,
+      "potential": 1,
+      "elite": 0,
+      "lv": 1
+    },
+    {
+      "id": 6080002,
+      "name": "傀影",
+      "class": 7,
+      "star": 6,
+      "skills": [
+        {
+          "id": 0,
+          "name": "暗夜魅影",
+          "rank": 0
+        },
+        {
+          "id": 0,
+          "name": "血色乐章",
+          "rank": 0
+        },
+        {
+          "id": 0,
+          "name": "夜幕突袭",
+          "rank": 0
+        }
+      ],
+      "isSelected": false,
+      "type": 0,
+      "potential": 1,
+      "elite": 0,
+      "lv": 1
+    },
+    {
+      "id": 6080003,
+      "name": "温蒂",
+      "class": 7,
+      "star": 6,
+      "skills": [
+        {
+          "id": 0,
+          "name": "炮管敲击",
+          "rank": 0
+        },
+        {
+          "id": 0,
+          "name": "水炮模式",
+          "rank": 0
+        },
+        {
+          "id": 0,
+          "name": "液氮大炮",
+          "rank": 0
+        }
+      ],
+      "isSelected": false,
+      "type": 0,
+      "potential": 1,
+      "elite": 0,
+      "lv": 1
+    },
+    {
+      "id": 5010001,
+      "name": "凛冬",
+      "class": 0,
+      "star": 5,
+      "skills": [
+        {
+          "id": 0,
+          "name": "冲锋号令·γ型",
+          "rank": 0
+        },
+        {
+          "id": 0,
+          "name": "乌萨斯战吼",
+          "rank": 0
+        }
+      ],
+      "isSelected": false,
+      "type": 0,
+      "potential": 1,
+      "elite": 0,
+      "lv": 1
+    },
+    {
+      "id": 5010002,
+      "name": "德克萨斯",
+      "class": 0,
+      "star": 5,
+      "skills": [
+        {
+          "id": 0,
+          "name": "冲锋号令·γ型",
+          "rank": 0
+        },
+        {
+          "id": 0,
+          "name": "剑雨",
+          "rank": 0
+        }
+      ],
+      "isSelected": false,
+      "type": 0,
+      "potential": 1,
+      "elite": 0,
+      "lv": 1
+    },
+    {
+      "id": 5010003,
+      "name": "格拉尼",
+      "class": 0,
+      "star": 5,
+      "skills": [
+        {
+          "id": 0,
+          "name": "防御力强化·γ型",
+          "rank": 0
+        },
+        {
+          "id": 0,
+          "name": "永不后退!",
+          "rank": 0
+        }
+      ],
+      "isSelected": false,
+      "type": 0,
+      "potential": 1,
+      "elite": 0,
+      "lv": 1
+    },
+    {
+      "id": 5010004,
+      "name": "苇草",
+      "class": 0,
+      "star": 5,
+      "skills": [
+        {
+          "id": 0,
+          "name": "迅捷打击·γ型",
+          "rank": 0
+        },
+        {
+          "id": 0,
+          "name": "生灵火花",
+          "rank": 0
+        }
+      ],
+      "isSelected": false,
+      "type": 0,
+      "potential": 1,
+      "elite": 0,
+      "lv": 1
+    },
+    {
+      "id": 5010005,
+      "name": "极境",
+      "class": 0,
+      "star": 5,
+      "skills": [
+        {
+          "id": 0,
+          "name": "支援号令·γ型",
+          "rank": 0
+        },
+        {
+          "id": 0,
+          "name": "聆听",
+          "rank": 0
+        }
+      ],
+      "isSelected": false,
+      "type": 0,
+      "potential": 1,
+      "elite": 0,
+      "lv": 1
+    },
+    {
+      "id": 5010006,
+      "name": "贾维",
+      "class": 0,
+      "star": 5,
+      "skills": [
+        {
+          "id": 0,
+          "name": "冲锋号令·γ型",
+          "rank": 0
+        },
+        {
+          "id": 0,
+          "name": "火焰剥离",
+          "rank": 0
+        }
+      ],
+      "isSelected": false,
+      "type": 0,
+      "potential": 1,
+      "elite": 0,
+      "lv": 1
+    },
+    {
+      "id": 5020001,
+      "name": "蓝毒",
+      "class": 1,
+      "star": 5,
+      "skills": [
+        {
+          "id": 0,
+          "name": "二重射击·自动",
+          "rank": 0
+        },
+        {
+          "id": 0,
+          "name": "毒液散射",
+          "rank": 0
+        }
+      ],
+      "isSelected": false,
+      "type": 0,
+      "potential": 1,
+      "elite": 0,
+      "lv": 1
+    },
+    {
+      "id": 5020002,
+      "name": "白金",
+      "class": 1,
+      "star": 5,
+      "skills": [
+        {
+          "id": 0,
+          "name": "攻击力强化·γ型",
+          "rank": 0
+        },
+        {
+          "id": 0,
+          "name": "天马视域",
+          "rank": 0
+        }
+      ],
+      "isSelected": false,
+      "type": 0,
+      "potential": 1,
+      "elite": 0,
+      "lv": 1
+    },
+    {
+      "id": 5020003,
+      "name": "陨星",
+      "class": 1,
+      "star": 5,
+      "skills": [
+        {
+          "id": 0,
+          "name": "霰射弹头",
+          "rank": 0
+        },
+        {
+          "id": 0,
+          "name": "高爆弹头",
+          "rank": 0
+        }
+      ],
+      "isSelected": false,
+      "type": 0,
+      "potential": 1,
+      "elite": 0,
+      "lv": 1
+    },
+    {
+      "id": 5020004,
+      "name": "普罗旺斯",
+      "class": 1,
+      "star": 5,
+      "skills": [
+        {
+          "id": 0,
+          "name": "狼眼",
+          "rank": 0
+        },
+        {
+          "id": 0,
+          "name": "杀戮嗅觉",
+          "rank": 0
+        }
+      ],
+      "isSelected": false,
+      "type": 0,
+      "potential": 1,
+      "elite": 0,
+      "lv": 1
+    },
+    {
+      "id": 5020005,
+      "name": "守林人",
+      "class": 1,
+      "star": 5,
+      "skills": [
+        {
+          "id": 0,
+          "name": "环境伪装",
+          "rank": 0
+        },
+        {
+          "id": 0,
+          "name": "战术电台",
+          "rank": 0
+        }
+      ],
+      "isSelected": false,
+      "type": 0,
+      "potential": 1,
+      "elite": 0,
+      "lv": 1
+    },
+    {
+      "id": 5020006,
+      "name": "送葬人",
+      "class": 1,
+      "star": 5,
+      "skills": [
+        {
+          "id": 0,
+          "name": "铳口收束",
+          "rank": 0
+        },
+        {
+          "id": 0,
+          "name": "最终旅程",
+          "rank": 0
+        }
+      ],
+      "isSelected": false,
+      "type": 0,
+      "potential": 1,
+      "elite": 0,
+      "lv": 1
+    },
+    {
+      "id": 5020007,
+      "name": "灰喉",
+      "class": 1,
+      "star": 5,
+      "skills": [
+        {
+          "id": 0,
+          "name": "飞羽",
+          "rank": 0
+        },
+        {
+          "id": 0,
+          "name": "回流",
+          "rank": 0
+        }
+      ],
+      "isSelected": false,
+      "type": 0,
+      "potential": 1,
+      "elite": 0,
+      "lv": 1
+    },
+    {
+      "id": 5020008,
+      "name": "慑砂",
+      "class": 1,
+      "star": 5,
+      "skills": [
+        {
+          "id": 0,
+          "name": "攻击力强化·γ型",
+          "rank": 0
+        },
+        {
+          "id": 0,
+          "name": "延时震荡零件",
+          "rank": 0
+        }
+      ],
+      "isSelected": false,
+      "type": 0,
+      "potential": 1,
+      "elite": 0,
+      "lv": 1
+    },
+    {
+      "id": 5020009,
+      "name": "安哲拉",
+      "class": 1,
+      "star": 5,
+      "skills": [
+        {
+          "id": 0,
+          "name": "攻击力强化·γ型",
+          "rank": 0
+        },
+        {
+          "id": 0,
+          "name": "阻滞射击战术",
+          "rank": 0
+        }
+      ],
+      "isSelected": false,
+      "type": 0,
+      "potential": 1,
+      "elite": 0,
+      "lv": 1
+    },
+    {
+      "id": 5020010,
+      "name": "四月",
+      "class": 1,
+      "star": 5,
+      "skills": [
+        {
+          "id": 0,
+          "name": "精准射击",
+          "rank": 0
+        },
+        {
+          "id": 0,
+          "name": "灵活伪装",
+          "rank": 0
+        }
+      ],
+      "isSelected": false,
+      "type": 0,
+      "potential": 1,
+      "elite": 0,
+      "lv": 1
+    },
+    {
+      "id": 5020011,
+      "name": "奥斯塔",
+      "class": 1,
+      "star": 5,
+      "skills": [
+        {
+          "id": 0,
+          "name": "迅捷打击·γ型",
+          "rank": 0
+        },
+        {
+          "id": 0,
+          "name": "影钉",
+          "rank": 0
+        }
+      ],
+      "isSelected": false,
+      "type": 0,
+      "potential": 1,
+      "elite": 0,
+      "lv": 1
+    },
+    {
+      "id": 5020012,
+      "name": "熔泉",
+      "class": 1,
+      "star": 5,
+      "skills": [
+        {
+          "id": 0,
+          "name": "信号矢",
+          "rank": 0
+        },
+        {
+          "id": 0,
+          "name": "便携破城矢",
+          "rank": 0
+        }
+      ],
+      "isSelected": false,
+      "type": 0,
+      "potential": 1,
+      "elite": 0,
+      "lv": 1
+    },
+    {
+      "id": 5030001,
+      "name": "芙兰卡",
+      "class": 2,
+      "star": 5,
+      "skills": [
+        {
+          "id": 0,
+          "name": "迅捷打击·γ型",
+          "rank": 0
+        },
+        {
+          "id": 0,
+          "name": "极致锋度",
+          "rank": 0
+        }
+      ],
+      "isSelected": false,
+      "type": 0,
+      "potential": 1,
+      "elite": 0,
+      "lv": 1
+    },
+    {
+      "id": 5030002,
+      "name": "因陀罗",
+      "class": 2,
+      "star": 5,
+      "skills": [
+        {
+          "id": 0,
+          "name": "碎甲拳",
+          "rank": 0
+        },
+        {
+          "id": 0,
+          "name": "裂魂",
+          "rank": 0
+        }
+      ],
+      "isSelected": false,
+      "type": 0,
+      "potential": 1,
+      "elite": 0,
+      "lv": 1
+    },
+    {
+      "id": 5030003,
+      "name": "拉普兰德",
+      "class": 2,
+      "star": 5,
+      "skills": [
+        {
+          "id": 0,
+          "name": "日晷",
+          "rank": 0
+        },
+        {
+          "id": 0,
+          "name": "狼魂",
+          "rank": 0
+        }
+      ],
+      "isSelected": false,
+      "type": 0,
+      "potential": 1,
+      "elite": 0,
+      "lv": 1
+    },
+    {
+      "id": 5030004,
+      "name": "幽灵鲨",
+      "class": 2,
+      "star": 5,
+      "skills": [
+        {
+          "id": 0,
+          "name": "攻击力强化·γ型",
+          "rank": 0
+        },
+        {
+          "id": 0,
+          "name": "肉斩骨断",
+          "rank": 0
+        }
+      ],
+      "isSelected": false,
+      "type": 0,
+      "potential": 1,
+      "elite": 0,
+      "lv": 1
+    },
+    {
+      "id": 5030005,
+      "name": "暴行",
+      "class": 2,
+      "star": 5,
+      "skills": [
+        {
+          "id": 0,
+          "name": "强力击·β型",
+          "rank": 0
+        },
+        {
+          "id": 0,
+          "name": "微差爆破",
+          "rank": 0
+        }
+      ],
+      "isSelected": false,
+      "type": 0,
+      "potential": 1,
+      "elite": 0,
+      "lv": 1
+    },
+    {
+      "id": 5030006,
+      "name": "诗怀雅",
+      "class": 2,
+      "star": 5,
+      "skills": [
+        {
+          "id": 0,
+          "name": "指挥调度",
+          "rank": 0
+        },
+        {
+          "id": 0,
+          "name": "协同作战",
+          "rank": 0
+        }
+      ],
+      "isSelected": false,
+      "type": 0,
+      "potential": 1,
+      "elite": 0,
+      "lv": 1
+    },
+    {
+      "id": 5030007,
+      "name": "星极",
+      "class": 2,
+      "star": 5,
+      "skills": [
+        {
+          "id": 0,
+          "name": "星座守护",
+          "rank": 0
+        },
+        {
+          "id": 0,
+          "name": "星辉剑",
+          "rank": 0
+        }
+      ],
+      "isSelected": false,
+      "type": 0,
+      "potential": 1,
+      "elite": 0,
+      "lv": 1
+    },
+    {
+      "id": 5030008,
+      "name": "炎客",
+      "class": 2,
+      "star": 5,
+      "skills": [
+        {
+          "id": 0,
+          "name": "歃血",
+          "rank": 0
+        },
+        {
+          "id": 0,
+          "name": "刃鬼",
+          "rank": 0
+        }
+      ],
+      "isSelected": false,
+      "type": 0,
+      "potential": 1,
+      "elite": 0,
+      "lv": 1
+    },
+    {
+      "id": 5030009,
+      "name": "布洛卡",
+      "class": 2,
+      "star": 5,
+      "skills": [
+        {
+          "id": 0,
+          "name": "通电",
+          "rank": 0
+        },
+        {
+          "id": 0,
+          "name": "高压电流",
+          "rank": 0
+        }
+      ],
+      "isSelected": false,
+      "type": 0,
+      "potential": 1,
+      "elite": 0,
+      "lv": 1
+    },
+    {
+      "id": 5030010,
+      "name": "柏喙",
+      "class": 2,
+      "star": 5,
+      "skills": [
+        {
+          "id": 0,
+          "name": "飞针剑羽",
+          "rank": 0
+        },
+        {
+          "id": 0,
+          "name": "异刃斩",
+          "rank": 0
+        }
+      ],
+      "isSelected": false,
+      "type": 0,
+      "potential": 1,
+      "elite": 0,
+      "lv": 1
+    },
+    {
+      "id": 5030011,
+      "name": "铸铁",
+      "class": 2,
+      "star": 5,
+      "skills": [
+        {
+          "id": 0,
+          "name": "生命回复·γ型",
+          "rank": 0
+        },
+        {
+          "id": 0,
+          "name": "破浪回神",
+          "rank": 0
+        }
+      ],
+      "isSelected": false,
+      "type": 0,
+      "potential": 1,
+      "elite": 0,
+      "lv": 1
+    },
+    {
+      "id": 5030012,
+      "name": "断崖",
+      "class": 2,
+      "star": 5,
+      "skills": [
+        {
+          "id": 0,
+          "name": "多导向散射弹丸",
+          "rank": 0
+        },
+        {
+          "id": 0,
+          "name": "浮游刃启动",
+          "rank": 0
+        }
+      ],
+      "isSelected": false,
+      "type": 0,
+      "potential": 1,
+      "elite": 0,
+      "lv": 1
+    },
+    {
+      "id": 5030013,
+      "name": "燧石",
+      "class": 2,
+      "star": 5,
+      "skills": [
+        {
+          "id": 0,
+          "name": "不息",
+          "rank": 0
+        },
+        {
+          "id": 0,
+          "name": "锋芒毕露",
+          "rank": 0
+        }
+      ],
+      "isSelected": false,
+      "type": 0,
+      "potential": 1,
+      "elite": 0,
+      "lv": 1
+    },
+    {
+      "id": 5030014,
+      "name": "鞭刃",
+      "class": 2,
+      "star": 5,
+      "skills": [
+        {
+          "id": 0,
+          "name": "激励艺术",
+          "rank": 0
+        },
+        {
+          "id": 0,
+          "name": "鞭刃",
+          "rank": 0
+        }
+      ],
+      "isSelected": false,
+      "type": 0,
+      "potential": 1,
+      "elite": 0,
+      "lv": 1
+    },
+    {
+      "id": 5030015,
+      "name": "战车",
+      "class": 2,
+      "star": 5,
+      "skills": [
+        {
+          "id": 0,
+          "name": "燃烧榴弹",
+          "rank": 0
+        },
+        {
+          "id": 0,
+          "name": "倾泻弹药",
+          "rank": 0
+        }
+      ],
+      "isSelected": false,
+      "type": 0,
+      "potential": 1,
+      "elite": 0,
+      "lv": 1
+    },
+    {
+      "id": 5040001,
+      "name": "天火",
+      "class": 3,
+      "star": 5,
+      "skills": [
+        {
+          "id": 0,
+          "name": "攻击力强化·γ型",
+          "rank": 0
+        },
+        {
+          "id": 0,
+          "name": "天坠之火",
+          "rank": 0
+        }
+      ],
+      "isSelected": false,
+      "type": 0,
+      "potential": 1,
+      "elite": 0,
+      "lv": 1
+    },
+    {
+      "id": 5040002,
+      "name": "夜魔",
+      "class": 3,
+      "star": 5,
+      "skills": [
+        {
+          "id": 0,
+          "name": "灵魂汲取",
+          "rank": 0
+        },
+        {
+          "id": 0,
+          "name": "夜魇魔影",
+          "rank": 0
+        }
+      ],
+      "isSelected": false,
+      "type": 0,
+      "potential": 1,
+      "elite": 0,
+      "lv": 1
+    },
+    {
+      "id": 5040003,
+      "name": "惊蛰",
+      "class": 3,
+      "star": 5,
+      "skills": [
+        {
+          "id": 0,
+          "name": "攻击力强化·γ型",
+          "rank": 0
+        },
+        {
+          "id": 0,
+          "name": "初雷",
+          "rank": 0
+        }
+      ],
+      "isSelected": false,
+      "type": 0,
+      "potential": 1,
+      "elite": 0,
+      "lv": 1
+    },
+    {
+      "id": 5040004,
+      "name": "苦艾",
+      "class": 3,
+      "star": 5,
+      "skills": [
+        {
+          "id": 0,
+          "name": "执法模式",
+          "rank": 0
+        },
+        {
+          "id": 0,
+          "name": "终结连射",
+          "rank": 0
+        }
+      ],
+      "isSelected": false,
+      "type": 0,
+      "potential": 1,
+      "elite": 0,
+      "lv": 1
+    },
+    {
+      "id": 5040005,
+      "name": "莱恩哈特",
+      "class": 3,
+      "star": 5,
+      "skills": [
+        {
+          "id": 0,
+          "name": "攻击力强化·γ型",
+          "rank": 0
+        },
+        {
+          "id": 0,
+          "name": "解构与爆破",
+          "rank": 0
+        }
+      ],
+      "isSelected": false,
+      "type": 0,
+      "potential": 1,
+      "elite": 0,
+      "lv": 1
+    },
+    {
+      "id": 5040006,
+      "name": "蜜蜡",
+      "class": 3,
+      "star": 5,
+      "skills": [
+        {
+          "id": 0,
+          "name": "沙暴扩散",
+          "rank": 0
+        },
+        {
+          "id": 0,
+          "name": "守卫尖碑",
+          "rank": 0
+        }
+      ],
+      "isSelected": false,
+      "type": 0,
+      "potential": 1,
+      "elite": 0,
+      "lv": 1
+    },
+    {
+      "id": 5040007,
+      "name": "特米米",
+      "class": 3,
+      "star": 5,
+      "skills": [
+        {
+          "id": 0,
+          "name": "部族技艺",
+          "rank": 0
+        },
+        {
+          "id": 0,
+          "name": "嘉维尔保护方案",
+          "rank": 0
+        }
+      ],
+      "isSelected": false,
+      "type": 0,
+      "potential": 1,
+      "elite": 0,
+      "lv": 1
+    },
+    {
+      "id": 5040008,
+      "name": "薄绿",
+      "class": 3,
+      "star": 5,
+      "skills": [
+        {
+          "id": 0,
+          "name": "风语",
+          "rank": 0
+        },
+        {
+          "id": 0,
+          "name": "聚能涡旋",
+          "rank": 0
+        }
+      ],
+      "isSelected": false,
+      "type": 0,
+      "potential": 1,
+      "elite": 0,
+      "lv": 1
+    },
+    {
+      "id": 5040009,
+      "name": "爱丽丝",
+      "class": 3,
+      "star": 5,
+      "skills": [
+        {
+          "id": 0,
+          "name": "童话守卫者",
+          "rank": 0
+        },
+        {
+          "id": 0,
+          "name": "梦乡摇篮",
+          "rank": 0
+        }
+      ],
+      "isSelected": false,
+      "type": 0,
+      "potential": 1,
+      "elite": 0,
+      "lv": 1
+    },
+    {
+      "id": 5040010,
+      "name": "炎狱炎熔",
+      "class": 3,
+      "star": 5,
+      "skills": [
+        {
+          "id": 0,
+          "name": "焰淬匕首",
+          "rank": 0
+        },
+        {
+          "id": 0,
+          "name": "狱火之环",
+          "rank": 0
+        }
+      ],
+      "isSelected": false,
+      "type": 0,
+      "potential": 1,
+      "elite": 0,
+      "lv": 1
+    },
+    {
+      "id": 5050001,
+      "name": "白面鸮",
+      "class": 4,
+      "star": 5,
+      "skills": [
+        {
+          "id": 0,
+          "name": "治疗强化·γ型",
+          "rank": 0
+        },
+        {
+          "id": 0,
+          "name": "脑啡肽",
+          "rank": 0
+        }
+      ],
+      "isSelected": false,
+      "type": 0,
+      "potential": 1,
+      "elite": 0,
+      "lv": 1
+    },
+    {
+      "id": 5050002,
+      "name": "赫默",
+      "class": 4,
+      "star": 5,
+      "skills": [
+        {
+          "id": 0,
+          "name": "治疗强化·γ型",
+          "rank": 0
+        },
+        {
+          "id": 0,
+          "name": "医疗无人机",
+          "rank": 0
+        }
+      ],
+      "isSelected": false,
+      "type": 0,
+      "potential": 1,
+      "elite": 0,
+      "lv": 1
+    },
+    {
+      "id": 5050003,
+      "name": "华法琳",
+      "class": 4,
+      "star": 5,
+      "skills": [
+        {
+          "id": 0,
+          "name": "紧急包扎",
+          "rank": 0
+        },
+        {
+          "id": 0,
+          "name": "不稳定血浆",
+          "rank": 0
+        }
+      ],
+      "isSelected": false,
+      "type": 0,
+      "potential": 1,
+      "elite": 0,
+      "lv": 1
+    },
+    {
+      "id": 5050004,
+      "name": "锡兰",
+      "class": 4,
+      "star": 5,
+      "skills": [
+        {
+          "id": 0,
+          "name": "集中式水疗",
+          "rank": 0
+        },
+        {
+          "id": 0,
+          "name": "水灵庇护",
+          "rank": 0
+        }
+      ],
+      "isSelected": false,
+      "type": 0,
+      "potential": 1,
+      "elite": 0,
+      "lv": 1
+    },
+    {
+      "id": 5050005,
+      "name": "微风",
+      "class": 4,
+      "star": 5,
+      "skills": [
+        {
+          "id": 0,
+          "name": "集束疗法",
+          "rank": 0
+        },
+        {
+          "id": 0,
+          "name": "扩散疗法",
+          "rank": 0
+        }
+      ],
+      "isSelected": false,
+      "type": 0,
+      "potential": 1,
+      "elite": 0,
+      "lv": 1
+    },
+    {
+      "id": 5050006,
+      "name": "亚叶",
+      "class": 4,
+      "star": 5,
+      "skills": [
+        {
+          "id": 0,
+          "name": "最大剂量输注",
+          "rank": 0
+        },
+        {
+          "id": 0,
+          "name": "复合型药物弹片",
+          "rank": 0
+        }
+      ],
+      "isSelected": false,
+      "type": 0,
+      "potential": 1,
+      "elite": 0,
+      "lv": 1
+    },
+    {
+      "id": 5050007,
+      "name": "絮雨",
+      "class": 4,
+      "star": 5,
+      "skills": [
+        {
+          "id": 0,
+          "name": "定向诊断",
+          "rank": 0
+        },
+        {
+          "id": 0,
+          "name": "痛觉抑制",
+          "rank": 0
+        }
+      ],
+      "isSelected": false,
+      "type": 0,
+      "potential": 1,
+      "elite": 0,
+      "lv": 1
+    },
+    {
+      "id": 5050008,
+      "name": "图耶",
+      "class": 4,
+      "star": 5,
+      "skills": [
+        {
+          "id": 0,
+          "name": "水流环",
+          "rank": 0
+        },
+        {
+          "id": 0,
+          "name": "强心剂",
+          "rank": 0
+        }
+      ],
+      "isSelected": false,
+      "type": 0,
+      "potential": 1,
+      "elite": 0,
+      "lv": 1
+    },
+    {
+      "id": 5060001,
+      "name": "临光",
+      "class": 5,
+      "star": 5,
+      "skills": [
+        {
+          "id": 0,
+          "name": "急救",
+          "rank": 0
+        },
+        {
+          "id": 0,
+          "name": "急救模式",
+          "rank": 0
+        }
+      ],
+      "isSelected": false,
+      "type": 0,
+      "potential": 1,
+      "elite": 0,
+      "lv": 1
+    },
+    {
+      "id": 5060002,
+      "name": "雷蛇",
+      "class": 5,
+      "star": 5,
+      "skills": [
+        {
+          "id": 0,
+          "name": "充能防御",
+          "rank": 0
+        },
+        {
+          "id": 0,
+          "name": "反击电弧",
+          "rank": 0
+        }
+      ],
+      "isSelected": false,
+      "type": 0,
+      "potential": 1,
+      "elite": 0,
+      "lv": 1
+    },
+    {
+      "id": 5060003,
+      "name": "可颂",
+      "class": 5,
+      "star": 5,
+      "skills": [
+        {
+          "id": 0,
+          "name": "自动防御",
+          "rank": 0
+        },
+        {
+          "id": 0,
+          "name": "磁暴锤",
+          "rank": 0
+        }
+      ],
+      "isSelected": false,
+      "type": 0,
+      "potential": 1,
+      "elite": 0,
+      "lv": 1
+    },
+    {
+      "id": 5060004,
+      "name": "火神",
+      "class": 5,
+      "star": 5,
+      "skills": [
+        {
+          "id": 0,
+          "name": "坚守模式",
+          "rank": 0
+        },
+        {
+          "id": 0,
+          "name": "武力模式",
+          "rank": 0
+        }
+      ],
+      "isSelected": false,
+      "type": 0,
+      "potential": 1,
+      "elite": 0,
+      "lv": 1
+    },
+    {
+      "id": 5060005,
+      "name": "拜松",
+      "class": 5,
+      "star": 5,
+      "skills": [
+        {
+          "id": 0,
+          "name": "防御力强化·γ型",
+          "rank": 0
+        },
+        {
+          "id": 0,
+          "name": "深化阵线",
+          "rank": 0
+        }
+      ],
+      "isSelected": false,
+      "type": 0,
+      "potential": 1,
+      "elite": 0,
+      "lv": 1
+    },
+    {
+      "id": 5060006,
+      "name": "吽",
+      "class": 5,
+      "star": 5,
+      "skills": [
+        {
+          "id": 0,
+          "name": "反制治疗",
+          "rank": 0
+        },
+        {
+          "id": 0,
+          "name": "反制医疗模式",
+          "rank": 0
+        }
+      ],
+      "isSelected": false,
+      "type": 0,
+      "potential": 1,
+      "elite": 0,
+      "lv": 1
+    },
+    {
+      "id": 5060007,
+      "name": "石棉",
+      "class": 5,
+      "star": 5,
+      "skills": [
+        {
+          "id": 0,
+          "name": "固守模式",
+          "rank": 0
+        },
+        {
+          "id": 0,
+          "name": "火电模式",
+          "rank": 0
+        }
+      ],
+      "isSelected": false,
+      "type": 0,
+      "potential": 1,
+      "elite": 0,
+      "lv": 1
+    },
+    {
+      "id": 5060008,
+      "name": "闪击",
+      "class": 5,
+      "star": 5,
+      "skills": [
+        {
+          "id": 0,
+          "name": "闪光护盾",
+          "rank": 0
+        },
+        {
+          "id": 0,
+          "name": "突破防线",
+          "rank": 0
+        }
+      ],
+      "isSelected": false,
+      "type": 0,
+      "potential": 1,
+      "elite": 0,
+      "lv": 1
+    },
+    {
+      "id": 5060009,
+      "name": "暴雨",
+      "class": 5,
+      "star": 5,
+      "skills": [
+        {
+          "id": 0,
+          "name": "应急迷彩",
+          "rank": 0
+        },
+        {
+          "id": 0,
+          "name": "群体迷彩",
+          "rank": 0
+        }
+      ],
+      "isSelected": false,
+      "type": 0,
+      "potential": 1,
+      "elite": 0,
+      "lv": 1
+    },
+    {
+      "id": 5070001,
+      "name": "梅尔",
+      "class": 6,
+      "star": 5,
+      "skills": [
+        {
+          "id": 0,
+          "name": "迷惑装置",
+          "rank": 0
+        },
+        {
+          "id": 0,
+          "name": "爆破回收",
+          "rank": 0
+        }
+      ],
+      "isSelected": false,
+      "type": 0,
+      "potential": 1,
+      "elite": 0,
+      "lv": 1
+    },
+    {
+      "id": 5070002,
+      "name": "初雪",
+      "class": 6,
+      "star": 5,
+      "skills": [
+        {
+          "id": 0,
+          "name": "传音回响",
+          "rank": 0
+        },
+        {
+          "id": 0,
+          "name": "自然震慑",
+          "rank": 0
+        }
+      ],
+      "isSelected": false,
+      "type": 0,
+      "potential": 1,
+      "elite": 0,
+      "lv": 1
+    },
+    {
+      "id": 5070003,
+      "name": "真理",
+      "class": 6,
+      "star": 5,
+      "skills": [
+        {
+          "id": 0,
+          "name": "专心致志",
+          "rank": 0
+        },
+        {
+          "id": 0,
+          "name": "文学风暴",
+          "rank": 0
+        }
+      ],
+      "isSelected": false,
+      "type": 0,
+      "potential": 1,
+      "elite": 0,
+      "lv": 1
+    },
+    {
+      "id": 5070004,
+      "name": "空",
+      "class": 6,
+      "star": 5,
+      "skills": [
+        {
+          "id": 0,
+          "name": "睡眠之歌",
+          "rank": 0
+        },
+        {
+          "id": 0,
+          "name": "战斗之歌",
+          "rank": 0
+        }
+      ],
+      "isSelected": false,
+      "type": 0,
+      "potential": 1,
+      "elite": 0,
+      "lv": 1
+    },
+    {
+      "id": 5070005,
+      "name": "格劳克斯",
+      "class": 6,
+      "star": 5,
+      "skills": [
+        {
+          "id": 0,
+          "name": "双线装填",
+          "rank": 0
+        },
+        {
+          "id": 0,
+          "name": "反制电磁脉冲",
+          "rank": 0
+        }
+      ],
+      "isSelected": false,
+      "type": 0,
+      "potential": 1,
+      "elite": 0,
+      "lv": 1
+    },
+    {
+      "id": 5070006,
+      "name": "巫恋",
+      "class": 6,
+      "star": 5,
+      "skills": [
+        {
+          "id": 0,
+          "name": "病入膏肓",
+          "rank": 0
+        },
+        {
+          "id": 0,
+          "name": "诅咒娃娃",
+          "rank": 0
+        }
+      ],
+      "isSelected": false,
+      "type": 0,
+      "potential": 1,
+      "elite": 0,
+      "lv": 1
+    },
+    {
+      "id": 5070007,
+      "name": "月禾",
+      "class": 6,
+      "star": 5,
+      "skills": [
+        {
+          "id": 0,
+          "name": "迹无",
+          "rank": 0
+        },
+        {
+          "id": 0,
+          "name": "森廻",
+          "rank": 0
+        }
+      ],
+      "isSelected": false,
+      "type": 0,
+      "potential": 1,
+      "elite": 0,
+      "lv": 1
+    },
+    {
+      "id": 5070008,
+      "name": "稀音",
+      "class": 6,
+      "star": 5,
+      "skills": [
+        {
+          "id": 0,
+          "name": "保护色隐蔽",
+          "rank": 0
+        },
+        {
+          "id": 0,
+          "name": "全景过载摄像",
+          "rank": 0
+        }
+      ],
+      "isSelected": false,
+      "type": 0,
+      "potential": 1,
+      "elite": 0,
+      "lv": 1
+    },
+    {
+      "id": 5080001,
+      "name": "红",
+      "class": 7,
+      "star": 5,
+      "skills": [
+        {
+          "id": 0,
+          "name": "处决模式",
+          "rank": 0
+        },
+        {
+          "id": 0,
+          "name": "狼群",
+          "rank": 0
+        }
+      ],
+      "isSelected": false,
+      "type": 0,
+      "potential": 1,
+      "elite": 0,
+      "lv": 1
+    },
+    {
+      "id": 5080002,
+      "name": "崖心",
+      "class": 7,
+      "star": 5,
+      "skills": [
+        {
+          "id": 0,
+          "name": "锁链勾爪",
+          "rank": 0
+        },
+        {
+          "id": 0,
+          "name": "束缚链",
+          "rank": 0
+        }
+      ],
+      "isSelected": false,
+      "type": 0,
+      "potential": 1,
+      "elite": 0,
+      "lv": 1
+    },
+    {
+      "id": 5080003,
+      "name": "狮蝎",
+      "class": 7,
+      "star": 5,
+      "skills": [
+        {
+          "id": 0,
+          "name": "蝎毒",
+          "rank": 0
+        },
+        {
+          "id": 0,
+          "name": "蓄力毒尾击",
+          "rank": 0
+        }
+      ],
+      "isSelected": false,
+      "type": 0,
+      "potential": 1,
+      "elite": 0,
+      "lv": 1
+    },
+    {
+      "id": 5080004,
+      "name": "食铁兽",
+      "class": 7,
+      "star": 5,
+      "skills": [
+        {
+          "id": 0,
+          "name": "铁意六合",
+          "rank": 0
+        },
+        {
+          "id": 0,
+          "name": "崩拳式",
+          "rank": 0
+        }
+      ],
+      "isSelected": false,
+      "type": 0,
+      "potential": 1,
+      "elite": 0,
+      "lv": 1
+    },
+    {
+      "id": 5080005,
+      "name": "槐琥",
+      "class": 7,
+      "star": 5,
+      "skills": [
+        {
+          "id": 0,
+          "name": "寸劲",
+          "rank": 0
+        },
+        {
+          "id": 0,
+          "name": "七武掠阵踢",
+          "rank": 0
+        }
+      ],
+      "isSelected": false,
+      "type": 0,
+      "potential": 1,
+      "elite": 0,
+      "lv": 1
+    },
+    {
+      "id": 5080006,
+      "name": "雪雉",
+      "class": 7,
+      "star": 5,
+      "skills": [
+        {
+          "id": 0,
+          "name": "倒刺钩爪",
+          "rank": 0
+        },
+        {
+          "id": 0,
+          "name": "伸缩式电捕网",
+          "rank": 0
+        }
+      ],
+      "isSelected": false,
+      "type": 0,
+      "potential": 1,
+      "elite": 0,
+      "lv": 1
+    },
+    {
+      "id": 5080007,
+      "name": "罗宾",
+      "class": 7,
+      "star": 5,
+      "skills": [
+        {
+          "id": 0,
+          "name": "束缚\"夹子\"",
+          "rank": 0
+        },
+        {
+          "id": 0,
+          "name": "弹射\"夹子\"",
+          "rank": 0
+        }
+      ],
+      "isSelected": false,
+      "type": 0,
+      "potential": 1,
+      "elite": 0,
+      "lv": 1
+    },
+    {
+      "id": 5080008,
+      "name": "卡夫卡",
+      "class": 7,
+      "star": 5,
+      "skills": [
+        {
+          "id": 0,
+          "name": "怪异魔方",
+          "rank": 0
+        },
+        {
+          "id": 0,
+          "name": "诡异剪刀",
+          "rank": 0
+        }
+      ],
+      "isSelected": false,
+      "type": 0,
+      "potential": 1,
+      "elite": 0,
+      "lv": 1
+    },
+    {
+      "id": 5080009,
+      "name": "乌有",
+      "class": 7,
+      "star": 5,
+      "skills": [
+        {
+          "id": 0,
+          "name": "知难而退",
+          "rank": 0
+        },
+        {
+          "id": 0,
+          "name": "阴晴圆缺",
+          "rank": 0
+        }
+      ],
+      "isSelected": false,
+      "type": 0,
+      "potential": 1,
+      "elite": 0,
+      "lv": 1
+    },
+    {
+      "id": 5080010,
+      "name": "霜华",
+      "class": 7,
+      "star": 5,
+      "skills": [
+        {
+          "id": 0,
+          "name": "陷阱部署",
+          "rank": 0
+        },
+        {
+          "id": 0,
+          "name": "击倒猎物",
+          "rank": 0
+        }
+      ],
+      "isSelected": false,
+      "type": 0,
+      "potential": 1,
+      "elite": 0,
+      "lv": 1
+    },
+    {
+      "id": 4010001,
+      "name": "讯使",
+      "class": 0,
+      "star": 4,
+      "skills": [
+        {
+          "id": 0,
+          "name": "冲锋号令·β型",
+          "rank": 0
+        },
+        {
+          "id": 0,
+          "name": "冲锋号令·防御",
+          "rank": 0
+        }
+      ],
+      "isSelected": false,
+      "type": 0,
+      "potential": 1,
+      "elite": 0,
+      "lv": 1
+    },
+    {
+      "id": 4010002,
+      "name": "清道夫",
+      "class": 0,
+      "star": 4,
+      "skills": [
+        {
+          "id": 0,
+          "name": "冲锋号令·β型",
+          "rank": 0
+        },
+        {
+          "id": 0,
+          "name": "冲锋号令·攻击",
+          "rank": 0
+        }
+      ],
+      "isSelected": false,
+      "type": 0,
+      "potential": 1,
+      "elite": 0,
+      "lv": 1
+    },
+    {
+      "id": 4010003,
+      "name": "红豆",
+      "class": 0,
+      "star": 4,
+      "skills": [
+        {
+          "id": 0,
+          "name": "攻击力强化·β型",
+          "rank": 0
+        },
+        {
+          "id": 0,
+          "name": "槌音",
+          "rank": 0
+        }
+      ],
+      "isSelected": false,
+      "type": 0,
+      "potential": 1,
+      "elite": 0,
+      "lv": 1
+    },
+    {
+      "id": 4010004,
+      "name": "桃金娘",
+      "class": 0,
+      "star": 4,
+      "skills": [
+        {
+          "id": 0,
+          "name": "支援号令·β型",
+          "rank": 0
+        },
+        {
+          "id": 0,
+          "name": "治愈之翼",
+          "rank": 0
+        }
+      ],
+      "isSelected": false,
+      "type": 0,
+      "potential": 1,
+      "elite": 0,
+      "lv": 1
+    },
+    {
+      "id": 4010005,
+      "name": "豆苗",
+      "class": 0,
+      "star": 4,
+      "skills": [
+        {
+          "id": 0,
+          "name": "定点指令",
+          "rank": 0
+        },
+        {
+          "id": 0,
+          "name": "\"大家一起上\"",
+          "rank": 0
+        }
+      ],
+      "isSelected": false,
+      "type": 0,
+      "potential": 1,
+      "elite": 0,
+      "lv": 1
+    },
+    {
+      "id": 4020001,
+      "name": "杰西卡",
+      "class": 1,
+      "star": 4,
+      "skills": [
+        {
+          "id": 0,
+          "name": "强力击·β型",
+          "rank": 0
+        },
+        {
+          "id": 0,
+          "name": "掩护烟幕",
+          "rank": 0
+        }
+      ],
+      "isSelected": false,
+      "type": 0,
+      "potential": 1,
+      "elite": 0,
+      "lv": 1
+    },
+    {
+      "id": 4020002,
+      "name": "流星",
+      "class": 1,
+      "star": 4,
+      "skills": [
+        {
+          "id": 0,
+          "name": "碎甲击",
+          "rank": 0
+        },
+        {
+          "id": 0,
+          "name": "碎甲击扩散",
+          "rank": 0
+        }
+      ],
+      "isSelected": false,
+      "type": 0,
+      "potential": 1,
+      "elite": 0,
+      "lv": 1
+    },
+    {
+      "id": 4020003,
+      "name": "白雪",
+      "class": 1,
+      "star": 4,
+      "skills": [
+        {
+          "id": 0,
+          "name": "敌飙",
+          "rank": 0
+        },
+        {
+          "id": 0,
+          "name": "凝武",
+          "rank": 0
+        }
+      ],
+      "isSelected": false,
+      "type": 0,
+      "potential": 1,
+      "elite": 0,
+      "lv": 1
+    },
+    {
+      "id": 4020004,
+      "name": "红云",
+      "class": 1,
+      "star": 4,
+      "skills": [
+        {
+          "id": 0,
+          "name": "攻击力强化·β型",
+          "rank": 0
+        },
+        {
+          "id": 0,
+          "name": "双弦开弓",
+          "rank": 0
+        }
+      ],
+      "isSelected": false,
+      "type": 0,
+      "potential": 1,
+      "elite": 0,
+      "lv": 1
+    },
+    {
+      "id": 4020005,
+      "name": "梅",
+      "class": 1,
+      "star": 4,
+      "skills": [
+        {
+          "id": 0,
+          "name": "麻痹弹",
+          "rank": 0
+        },
+        {
+          "id": 0,
+          "name": "束缚电击",
+          "rank": 0
+        }
+      ],
+      "isSelected": false,
+      "type": 0,
+      "potential": 1,
+      "elite": 0,
+      "lv": 1
+    },
+    {
+      "id": 4020006,
+      "name": "安比尔",
+      "class": 1,
+      "star": 4,
+      "skills": [
+        {
+          "id": 0,
+          "name": "阻挡弹",
+          "rank": 0
+        },
+        {
+          "id": 0,
+          "name": "雷达定位",
+          "rank": 0
+        }
+      ],
+      "isSelected": false,
+      "type": 0,
+      "potential": 1,
+      "elite": 0,
+      "lv": 1
+    },
+    {
+      "id": 4020007,
+      "name": "酸糖",
+      "class": 1,
+      "star": 4,
+      "skills": [
+        {
+          "id": 0,
+          "name": "花式点射",
+          "rank": 0
+        },
+        {
+          "id": 0,
+          "name": "扳机时刻",
+          "rank": 0
+        }
+      ],
+      "isSelected": false,
+      "type": 0,
+      "potential": 1,
+      "elite": 0,
+      "lv": 1
+    },
+    {
+      "id": 4020008,
+      "name": "松果",
+      "class": 1,
+      "star": 4,
+      "skills": [
+        {
+          "id": 0,
+          "name": "RMA长钉",
+          "rank": 0
+        },
+        {
+          "id": 0,
+          "name": "电能过载",
+          "rank": 0
+        }
+      ],
+      "isSelected": false,
+      "type": 0,
+      "potential": 1,
+      "elite": 0,
+      "lv": 1
+    },
+    {
+      "id": 4030001,
+      "name": "杜宾",
+      "class": 2,
+      "star": 4,
+      "skills": [
+        {
+          "id": 0,
+          "name": "强力击·β型",
+          "rank": 0
+        },
+        {
+          "id": 0,
+          "name": "鞭策",
+          "rank": 0
+        }
+      ],
+      "isSelected": false,
+      "type": 0,
+      "potential": 1,
+      "elite": 0,
+      "lv": 1
+    },
+    {
+      "id": 4030002,
+      "name": "缠丸",
+      "class": 2,
+      "star": 4,
+      "skills": [
+        {
+          "id": 0,
+          "name": "生命回复·β型",
+          "rank": 0
+        },
+        {
+          "id": 0,
+          "name": "恶鬼之力",
+          "rank": 0
+        }
+      ],
+      "isSelected": false,
+      "type": 0,
+      "potential": 1,
+      "elite": 0,
+      "lv": 1
+    },
+    {
+      "id": 4030003,
+      "name": "霜叶",
+      "class": 2,
+      "star": 4,
+      "skills": [
+        {
+          "id": 0,
+          "name": "寒霜枪刃",
+          "rank": 0
+        },
+        {
+          "id": 0,
+          "name": "凝冰枪刃",
+          "rank": 0
+        }
+      ],
+      "isSelected": false,
+      "type": 0,
+      "potential": 1,
+      "elite": 0,
+      "lv": 1
+    },
+    {
+      "id": 4030004,
+      "name": "艾丝黛尔",
+      "class": 2,
+      "star": 4,
+      "skills": [
+        {
+          "id": 0,
+          "name": "攻击力强化·β型",
+          "rank": 0
+        },
+        {
+          "id": 0,
+          "name": "舍身突击",
+          "rank": 0
+        }
+      ],
+      "isSelected": false,
+      "type": 0,
+      "potential": 1,
+      "elite": 0,
+      "lv": 1
+    },
+    {
+      "id": 4030005,
+      "name": "慕斯",
+      "class": 2,
+      "star": 4,
+      "skills": [
+        {
+          "id": 0,
+          "name": "挠伤",
+          "rank": 0
+        },
+        {
+          "id": 0,
+          "name": "炸毛",
+          "rank": 0
+        }
+      ],
+      "isSelected": false,
+      "type": 0,
+      "potential": 1,
+      "elite": 0,
+      "lv": 1
+    },
+    {
+      "id": 4030006,
+      "name": "猎蜂",
+      "class": 2,
+      "star": 4,
+      "skills": [
+        {
+          "id": 0,
+          "name": "高机动",
+          "rank": 0
+        },
+        {
+          "id": 0,
+          "name": "急速拳",
+          "rank": 0
+        }
+      ],
+      "isSelected": false,
+      "type": 0,
+      "potential": 1,
+      "elite": 0,
+      "lv": 1
+    },
+    {
+      "id": 4030007,
+      "name": "宴",
+      "class": 2,
+      "star": 4,
+      "skills": [
+        {
+          "id": 0,
+          "name": "分神",
+          "rank": 0
+        },
+        {
+          "id": 0,
+          "name": "落地斩·破门",
+          "rank": 0
+        }
+      ],
+      "isSelected": false,
+      "type": 0,
+      "potential": 1,
+      "elite": 0,
+      "lv": 1
+    },
+    {
+      "id": 4030008,
+      "name": "断罪者",
+      "class": 2,
+      "star": 4,
+      "skills": [
+        {
+          "id": 0,
+          "name": "断罪",
+          "rank": 0
+        },
+        {
+          "id": 0,
+          "name": "创世纪",
+          "rank": 0
+        }
+      ],
+      "isSelected": false,
+      "type": 0,
+      "potential": 1,
+      "elite": 0,
+      "lv": 1
+    },
+    {
+      "id": 4030009,
+      "name": "刻刀",
+      "class": 2,
+      "star": 4,
+      "skills": [
+        {
+          "id": 0,
+          "name": "红移",
+          "rank": 0
+        },
+        {
+          "id": 0,
+          "name": "绯红刺刀",
+          "rank": 0
+        }
+      ],
+      "isSelected": false,
+      "type": 0,
+      "potential": 1,
+      "elite": 0,
+      "lv": 1
+    },
+    {
+      "id": 4030010,
+      "name": "芳汀",
+      "class": 2,
+      "star": 4,
+      "skills": [
+        {
+          "id": 0,
+          "name": "小玩笑",
+          "rank": 0
+        },
+        {
+          "id": 0,
+          "name": "致命恶作剧",
+          "rank": 0
+        }
+      ],
+      "isSelected": false,
+      "type": 0,
+      "potential": 1,
+      "elite": 0,
+      "lv": 1
+    },
+    {
+      "id": 4030011,
+      "name": "杰克",
+      "class": 2,
+      "star": 4,
+      "skills": [
+        {
+          "id": 0,
+          "name": "给你一拳!",
+          "rank": 0
+        },
+        {
+          "id": 0,
+          "name": "全神贯注!",
+          "rank": 0
+        }
+      ],
+      "isSelected": false,
+      "type": 0,
+      "potential": 1,
+      "elite": 0,
+      "lv": 1
+    },
+    {
+      "id": 4040001,
+      "name": "夜烟",
+      "class": 3,
+      "star": 4,
+      "skills": [
+        {
+          "id": 0,
+          "name": "攻击力强化·β型",
+          "rank": 0
+        },
+        {
+          "id": 0,
+          "name": "赤色之瞳",
+          "rank": 0
+        }
+      ],
+      "isSelected": false,
+      "type": 0,
+      "potential": 1,
+      "elite": 0,
+      "lv": 1
+    },
+    {
+      "id": 4040002,
+      "name": "远山",
+      "class": 3,
+      "star": 4,
+      "skills": [
+        {
+          "id": 0,
+          "name": "战术咏唱·β型",
+          "rank": 0
+        },
+        {
+          "id": 0,
+          "name": "命运",
+          "rank": 0
+        }
+      ],
+      "isSelected": false,
+      "type": 0,
+      "potential": 1,
+      "elite": 0,
+      "lv": 1
+    },
+    {
+      "id": 4040003,
+      "name": "格雷伊",
+      "class": 3,
+      "star": 4,
+      "skills": [
+        {
+          "id": 0,
+          "name": "战术咏唱·β型",
+          "rank": 0
+        },
+        {
+          "id": 0,
+          "name": "静电释放",
+          "rank": 0
+        }
+      ],
+      "isSelected": false,
+      "type": 0,
+      "potential": 1,
+      "elite": 0,
+      "lv": 1
+    },
+    {
+      "id": 4040004,
+      "name": "卡达",
+      "class": 3,
+      "star": 4,
+      "skills": [
+        {
+          "id": 0,
+          "name": "攻击力强化·β型",
+          "rank": 0
+        },
+        {
+          "id": 0,
+          "name": "同步索敌攻击",
+          "rank": 0
+        }
+      ],
+      "isSelected": false,
+      "type": 0,
+      "potential": 1,
+      "elite": 0,
+      "lv": 1
+    },
+    {
+      "id": 4050001,
+      "name": "末药",
+      "class": 4,
+      "star": 4,
+      "skills": [
+        {
+          "id": 0,
+          "name": "二重治疗",
+          "rank": 0
+        },
+        {
+          "id": 0,
+          "name": "医疗立场",
+          "rank": 0
+        }
+      ],
+      "isSelected": false,
+      "type": 0,
+      "potential": 1,
+      "elite": 0,
+      "lv": 1
+    },
+    {
+      "id": 4050002,
+      "name": "嘉维尔",
+      "class": 4,
+      "star": 4,
+      "skills": [
+        {
+          "id": 0,
+          "name": "活力再生",
+          "rank": 0
+        },
+        {
+          "id": 0,
+          "name": "活力再生·广域",
+          "rank": 0
+        }
+      ],
+      "isSelected": false,
+      "type": 0,
+      "potential": 1,
+      "elite": 0,
+      "lv": 1
+    },
+    {
+      "id": 4050003,
+      "name": "调香师",
+      "class": 4,
+      "star": 4,
+      "skills": [
+        {
+          "id": 0,
+          "name": "治疗强化·β型",
+          "rank": 0
+        },
+        {
+          "id": 0,
+          "name": "精调",
+          "rank": 0
+        }
+      ],
+      "isSelected": false,
+      "type": 0,
+      "potential": 1,
+      "elite": 0,
+      "lv": 1
+    },
+    {
+      "id": 4050004,
+      "name": "苏苏洛",
+      "class": 4,
+      "star": 4,
+      "skills": [
+        {
+          "id": 0,
+          "name": "治疗强化·β型",
+          "rank": 0
+        },
+        {
+          "id": 0,
+          "name": "深度治疗",
+          "rank": 0
+        }
+      ],
+      "isSelected": false,
+      "type": 0,
+      "potential": 1,
+      "elite": 0,
+      "lv": 1
+    },
+    {
+      "id": 4050005,
+      "name": "清流",
+      "class": 4,
+      "star": 4,
+      "skills": [
+        {
+          "id": 0,
+          "name": "治愈水波",
+          "rank": 0
+        },
+        {
+          "id": 0,
+          "name": "涌泉",
+          "rank": 0
+        }
+      ],
+      "isSelected": false,
+      "type": 0,
+      "potential": 1,
+      "elite": 0,
+      "lv": 1
+    },
+    {
+      "id": 4060001,
+      "name": "角峰",
+      "class": 5,
+      "star": 4,
+      "skills": [
+        {
+          "id": 0,
+          "name": "体能强化",
+          "rank": 0
+        },
+        {
+          "id": 0,
+          "name": "抗寒体质",
+          "rank": 0
+        }
+      ],
+      "isSelected": false,
+      "type": 0,
+      "potential": 1,
+      "elite": 0,
+      "lv": 1
+    },
+    {
+      "id": 4060002,
+      "name": "蛇屠箱",
+      "class": 5,
+      "star": 4,
+      "skills": [
+        {
+          "id": 0,
+          "name": "防御力强化·β型",
+          "rank": 0
+        },
+        {
+          "id": 0,
+          "name": "壳状防御",
+          "rank": 0
+        }
+      ],
+      "isSelected": false,
+      "type": 0,
+      "potential": 1,
+      "elite": 0,
+      "lv": 1
+    },
+    {
+      "id": 4060003,
+      "name": "古米",
+      "class": 5,
+      "star": 4,
+      "skills": [
+        {
+          "id": 0,
+          "name": "备用军粮",
+          "rank": 0
+        },
+        {
+          "id": 0,
+          "name": "食粮烹制",
+          "rank": 0
+        }
+      ],
+      "isSelected": false,
+      "type": 0,
+      "potential": 1,
+      "elite": 0,
+      "lv": 1
+    },
+    {
+      "id": 4060004,
+      "name": "坚雷",
+      "class": 5,
+      "star": 4,
+      "skills": [
+        {
+          "id": 0,
+          "name": "攻击力强化·β型",
+          "rank": 0
+        },
+        {
+          "id": 0,
+          "name": "起盾回击",
+          "rank": 0
+        }
+      ],
+      "isSelected": false,
+      "type": 0,
+      "potential": 1,
+      "elite": 0,
+      "lv": 1
+    },
+    {
+      "id": 4060005,
+      "name": "泡泡",
+      "class": 5,
+      "star": 4,
+      "skills": [
+        {
+          "id": 0,
+          "name": "防御力强化·β型",
+          "rank": 0
+        },
+        {
+          "id": 0,
+          "name": "\"挨打\"",
+          "rank": 0
+        }
+      ],
+      "isSelected": false,
+      "type": 0,
+      "potential": 1,
+      "elite": 0,
+      "lv": 1
+    },
+    {
+      "id": 4070001,
+      "name": "深海色",
+      "class": 6,
+      "star": 4,
+      "skills": [
+        {
+          "id": 0,
+          "name": "光影之触",
+          "rank": 0
+        },
+        {
+          "id": 0,
+          "name": "视觉陷阱",
+          "rank": 0
+        }
+      ],
+      "isSelected": false,
+      "type": 0,
+      "potential": 1,
+      "elite": 0,
+      "lv": 1
+    },
+    {
+      "id": 4070002,
+      "name": "地灵",
+      "class": 6,
+      "star": 4,
+      "skills": [
+        {
+          "id": 0,
+          "name": "攻击力强化·β型",
+          "rank": 0
+        },
+        {
+          "id": 0,
+          "name": "流沙化",
+          "rank": 0
+        }
+      ],
+      "isSelected": false,
+      "type": 0,
+      "potential": 1,
+      "elite": 0,
+      "lv": 1
+    },
+    {
+      "id": 4070003,
+      "name": "波登可",
+      "class": 6,
+      "star": 4,
+      "skills": [
+        {
+          "id": 0,
+          "name": "花香疗法",
+          "rank": 0
+        },
+        {
+          "id": 0,
+          "name": "孢子扩散",
+          "rank": 0
+        }
+      ],
+      "isSelected": false,
+      "type": 0,
+      "potential": 1,
+      "elite": 0,
+      "lv": 1
+    },
+    {
+      "id": 4080001,
+      "name": "砾",
+      "class": 7,
+      "star": 4,
+      "skills": [
+        {
+          "id": 0,
+          "name": "影袭",
+          "rank": 0
+        },
+        {
+          "id": 0,
+          "name": "鼠群",
+          "rank": 0
+        }
+      ],
+      "isSelected": false,
+      "type": 0,
+      "potential": 1,
+      "elite": 0,
+      "lv": 1
+    },
+    {
+      "id": 4080002,
+      "name": "暗索",
+      "class": 7,
+      "star": 4,
+      "skills": [
+        {
+          "id": 0,
+          "name": "勾爪发射",
+          "rank": 0
+        },
+        {
+          "id": 0,
+          "name": "复式勾爪",
+          "rank": 0
+        }
+      ],
+      "isSelected": false,
+      "type": 0,
+      "potential": 1,
+      "elite": 0,
+      "lv": 1
+    },
+    {
+      "id": 4080003,
+      "name": "阿消",
+      "class": 7,
+      "star": 4,
+      "skills": [
+        {
+          "id": 0,
+          "name": "水蒸气泵",
+          "rank": 0
+        },
+        {
+          "id": 0,
+          "name": "高压水炮",
+          "rank": 0
+        }
+      ],
+      "isSelected": false,
+      "type": 0,
+      "potential": 1,
+      "elite": 0,
+      "lv": 1
+    },
+    {
+      "id": 4080004,
+      "name": "伊桑",
+      "class": 7,
+      "star": 4,
+      "skills": [
+        {
+          "id": 0,
+          "name": "花式回旋",
+          "rank": 0
+        },
+        {
+          "id": 0,
+          "name": "十字悬挂",
+          "rank": 0
+        }
+      ],
+      "isSelected": false,
+      "type": 0,
+      "potential": 1,
+      "elite": 0,
+      "lv": 1
+    },
+    {
+      "id": 4080005,
+      "name": "孑",
+      "class": 7,
+      "star": 4,
+      "skills": [
+        {
+          "id": 0,
+          "name": "断螯",
+          "rank": 0
+        },
+        {
+          "id": 0,
+          "name": "刺身拼盘",
+          "rank": 0
+        }
+      ],
+      "isSelected": false,
+      "type": 0,
+      "potential": 1,
+      "elite": 0,
+      "lv": 1
+    },
+    {
+      "id": 3010001,
+      "name": "芬",
+      "class": 0,
+      "star": 3,
+      "skills": [
+        {
+          "id": 0,
+          "name": "冲锋号令·α型",
+          "rank": 0
+        }
+      ],
+      "isSelected": false,
+      "type": 0,
+      "potential": 1,
+      "elite": 0,
+      "lv": 1
+    },
+    {
+      "id": 3010002,
+      "name": "香草",
+      "class": 0,
+      "star": 3,
+      "skills": [
+        {
+          "id": 0,
+          "name": "冲锋号令·援军",
+          "rank": 0
+        }
+      ],
+      "isSelected": false,
+      "type": 0,
+      "potential": 1,
+      "elite": 0,
+      "lv": 1
+    },
+    {
+      "id": 3010003,
+      "name": "翎羽",
+      "class": 0,
+      "star": 3,
+      "skills": [
+        {
+          "id": 0,
+          "name": "冲锋号令·α型",
+          "rank": 0
+        }
+      ],
+      "isSelected": false,
+      "type": 0,
+      "potential": 1,
+      "elite": 0,
+      "lv": 1
+    },
+    {
+      "id": 3020001,
+      "name": "克洛丝",
+      "class": 1,
+      "star": 3,
+      "skills": [
+        {
+          "id": 0,
+          "name": "二连射·自动",
+          "rank": 0
+        }
+      ],
+      "isSelected": false,
+      "type": 0,
+      "potential": 1,
+      "elite": 0,
+      "lv": 1
+    },
+    {
+      "id": 3020002,
+      "name": "安德切尔",
+      "class": 1,
+      "star": 3,
+      "skills": [
+        {
+          "id": 0,
+          "name": "攻击力强化·α型",
+          "rank": 0
+        }
+      ],
+      "isSelected": false,
+      "type": 0,
+      "potential": 1,
+      "elite": 0,
+      "lv": 1
+    },
+    {
+      "id": 3020003,
+      "name": "空爆",
+      "class": 1,
+      "star": 3,
+      "skills": [
+        {
+          "id": 0,
+          "name": "爆破范围提升·α型",
+          "rank": 0
+        }
+      ],
+      "isSelected": false,
+      "type": 0,
+      "potential": 1,
+      "elite": 0,
+      "lv": 1
+    },
+    {
+      "id": 3030001,
+      "name": "玫兰莎",
+      "class": 2,
+      "star": 3,
+      "skills": [
+        {
+          "id": 0,
+          "name": "攻击力强化·α型",
+          "rank": 0
+        }
+      ],
+      "isSelected": false,
+      "type": 0,
+      "potential": 1,
+      "elite": 0,
+      "lv": 1
+    },
+    {
+      "id": 3030002,
+      "name": "月见夜",
+      "class": 2,
+      "star": 3,
+      "skills": [
+        {
+          "id": 0,
+          "name": "武器附魔·α型",
+          "rank": 0
+        }
+      ],
+      "isSelected": false,
+      "type": 0,
+      "potential": 1,
+      "elite": 0,
+      "lv": 1
+    },
+    {
+      "id": 3030003,
+      "name": "泡普卡",
+      "class": 2,
+      "star": 3,
+      "skills": [
+        {
+          "id": 0,
+          "name": "攻击力强化·α型",
+          "rank": 0
+        }
+      ],
+      "isSelected": false,
+      "type": 0,
+      "potential": 1,
+      "elite": 0,
+      "lv": 1
+    },
+    {
+      "id": 3040001,
+      "name": "炎熔",
+      "class": 3,
+      "star": 3,
+      "skills": [
+        {
+          "id": 0,
+          "name": "战术咏唱·α型",
+          "rank": 0
+        }
+      ],
+      "isSelected": false,
+      "type": 0,
+      "potential": 1,
+      "elite": 0,
+      "lv": 1
+    },
+    {
+      "id": 3040002,
+      "name": "史都华德",
+      "class": 3,
+      "star": 3,
+      "skills": [
+        {
+          "id": 0,
+          "name": "强力击·α型",
+          "rank": 0
+        }
+      ],
+      "isSelected": false,
+      "type": 0,
+      "potential": 1,
+      "elite": 0,
+      "lv": 1
+    },
+    {
+      "id": 3050001,
+      "name": "芙蓉",
+      "class": 4,
+      "star": 3,
+      "skills": [
+        {
+          "id": 0,
+          "name": "治疗强化·α型",
+          "rank": 0
+        }
+      ],
+      "isSelected": false,
+      "type": 0,
+      "potential": 1,
+      "elite": 0,
+      "lv": 1
+    },
+    {
+      "id": 3050002,
+      "name": "安赛尔",
+      "class": 4,
+      "star": 3,
+      "skills": [
+        {
+          "id": 0,
+          "name": "治疗范围强化",
+          "rank": 0
+        }
+      ],
+      "isSelected": false,
+      "type": 0,
+      "potential": 1,
+      "elite": 0,
+      "lv": 1
+    },
+    {
+      "id": 3060001,
+      "name": "卡缇",
+      "class": 5,
+      "star": 3,
+      "skills": [
+        {
+          "id": 0,
+          "name": "生命回复·α型",
+          "rank": 0
+        }
+      ],
+      "isSelected": false,
+      "type": 0,
+      "potential": 1,
+      "elite": 0,
+      "lv": 1
+    },
+    {
+      "id": 3060002,
+      "name": "米格鲁",
+      "class": 5,
+      "star": 3,
+      "skills": [
+        {
+          "id": 0,
+          "name": "防御力强化·α型",
+          "rank": 0
+        }
+      ],
+      "isSelected": false,
+      "type": 0,
+      "potential": 1,
+      "elite": 0,
+      "lv": 1
+    },
+    {
+      "id": 3060003,
+      "name": "斑点",
+      "class": 5,
+      "star": 3,
+      "skills": [
+        {
+          "id": 0,
+          "name": "次级治疗模式",
+          "rank": 0
+        }
+      ],
+      "isSelected": false,
+      "type": 0,
+      "potential": 1,
+      "elite": 0,
+      "lv": 1
+    },
+    {
+      "id": 3070001,
+      "name": "梓兰",
+      "class": 6,
+      "star": 3,
+      "skills": [
+        {
+          "id": 0,
+          "name": "迅捷打击·α型",
+          "rank": 0
+        }
+      ],
+      "isSelected": false,
+      "type": 0,
+      "potential": 1,
+      "elite": 0,
+      "lv": 1
+    },
+    {
+      "id": 2010001,
+      "name": "夜刀",
+      "class": 0,
+      "star": 2,
+      "skills": [],
+      "isSelected": false,
+      "type": 0,
+      "potential": 1,
+      "elite": 0,
+      "lv": 1
+    },
+    {
+      "id": 2020001,
+      "name": "巡林者",
+      "class": 1,
+      "star": 2,
+      "skills": [],
+      "isSelected": false,
+      "type": 0,
+      "potential": 1,
+      "elite": 0,
+      "lv": 1
+    },
+    {
+      "id": 2040001,
+      "name": "12F",
+      "class": 3,
+      "star": 2,
+      "skills": [],
+      "isSelected": false,
+      "type": 0,
+      "potential": 1,
+      "elite": 0,
+      "lv": 1
+    },
+    {
+      "id": 2040002,
+      "name": "杜林",
+      "class": 3,
+      "star": 2,
+      "skills": [],
+      "isSelected": false,
+      "type": 0,
+      "potential": 1,
+      "elite": 0,
+      "lv": 1
+    },
+    {
+      "id": 2060001,
+      "name": "黑角",
+      "class": 5,
+      "star": 2,
+      "skills": [],
+      "isSelected": false,
+      "type": 0,
+      "potential": 1,
+      "elite": 0,
+      "lv": 1
+    },
+    {
+      "id": 1030001,
+      "name": "Castle-3",
+      "class": 2,
+      "star": 1,
+      "skills": [],
+      "isSelected": false,
+      "type": 0,
+      "potential": 1,
+      "elite": 0,
+      "lv": 1
+    },
+    {
+      "id": 1050001,
+      "name": "Lancet-2",
+      "class": 4,
+      "star": 1,
+      "skills": [],
+      "isSelected": false,
+      "type": 0,
+      "potential": 1,
+      "elite": 0,
+      "lv": 1
+    },
+    {
+      "id": 1080001,
+      "name": "THRM-EX",
+      "class": 7,
+      "star": 1,
+      "skills": [],
+      "isSelected": false,
+      "type": 0,
+      "potential": 1,
+      "elite": 0,
+      "lv": 1
+    },
+    {
+      "id": 99030001,
+      "name": "阿米娅(近卫)",
+      "class": 2,
+      "star": 5,
+      "skills": [
+        {
+          "id": 0,
+          "name": "影霄·奔夜",
+          "rank": 0
+        },
+        {
+          "id": 0,
+          "name": "影霄·绝影",
+          "rank": 0
+        }
+      ],
+      "isSelected": false,
+      "type": 0,
+      "potential": 1,
+      "elite": 2,
+      "lv": 1
+    },
+    {
+      "id": 99040001,
+      "name": "阿米娅(术师)",
+      "class": 3,
+      "star": 5,
+      "skills": [
+        {
+          "id": 0,
+          "name": "战术咏唱·γ型",
+          "rank": 0
+        },
+        {
+          "id": 0,
+          "name": "精神爆发",
+          "rank": 0
+        },
+        {
+          "id": 0,
+          "name": "奇美拉",
+          "rank": 0
+        }
+      ],
+      "isSelected": false,
+      "type": 0,
+      "potential": 1,
+      "elite": 0,
+      "lv": 1
+    }
+  ]
+}
