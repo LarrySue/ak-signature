@@ -16,7 +16,7 @@
             <preview-section v-if="favouriteAgents.length !== 0" :agents="favouriteAgents" :column="column" :style="{height: favouriteHeight + 'px', marginLeft: marginLeft + 'px', marginRight: marginRight + 'px'}" />
 
             <div v-if="mainAgents.length !== 0" class="mainArea" :style="{height: mainHeight + 'px', marginLeft: marginLeft + 'px', marginRight: marginRight + 'px'}">
-              <preview-section v-for="(as, idx) in mainAgents" :key="idx" :agents="as.as" :column="as.as.length" :style="{height: (agentSectionTopHeight + agentHeight + agentYPadding) + 'px', marginLeft: as.marginLeft + 'px'}"/>
+              <preview-section v-for="(as, idx) in mainAgents" :key="idx" :agents="as.as" :column="as.as.length" :style="as.style"/>
             </div>
 
             <preview-section v-if="meritoriousAgents.length !== 0" :agents="meritoriousAgents" :column="column" :style="{height: meritoriousHeight + 'px', marginLeft: marginLeft + 'px', marginRight: marginRight + 'px'}" />
@@ -150,10 +150,10 @@ export default {
         if (this.column < 5) { this.column = 5 }
 
         let AgentSectionsWithLength = []
-        let flag = false
 
         for (let i = 0; i < AgentSectionsWithClass.length; i++) {
-          const arrI = AgentSectionsWithClass[i]
+          let flag = false
+          let arrI = AgentSectionsWithClass[i]
 
           for (let j = 0; j < AgentSectionsWithLength.length; j++) {
             const arrJ = AgentSectionsWithLength[j]
@@ -192,12 +192,28 @@ export default {
         let resultAgents = []
         for (let i = 0; i < AgentSectionsWithLength.length; i++) {
           const arrI = AgentSectionsWithLength[i]
+          let xOffset = 0
+          let height = this.agentSectionTopHeight + this.agentHeight + this.agentYPadding
+
           for (let j = 0; j < arrI.length; j++) {
             const arrJ = arrI[j]
+
+            let width = this.agentWidth * arrJ.length + this.agentXPadding * (arrJ.length - 1)
+
+            console.log(arrJ.length);
+
+            let style = {
+              position: 'absolute',
+              left: xOffset + 'px',
+              top: height * i + 'px',
+              height: height + 'px',
+              width: width + 'px'
+            }
+
+            xOffset += width + this.agentWidth
+
             resultAgents.push({
-              marginLeft: j === 0
-                ? 0
-                : this.agentWidth + 2 * this.agentXPadding,
+              style: style,
               as: arrJ
             })
           }
@@ -242,6 +258,10 @@ export default {
     align-items: center;
   }
   .previewArea {
+    display: flex;
+    justify-content: flex-start;
+    align-items: center;
+    flex-direction: column;
     width: 80%;
     height: 80%;
     overflow: scroll;
@@ -300,11 +320,7 @@ export default {
     margin-top: 15px;
   }
   .mainArea {
-    display: flex;
-    justify-content: flex-start;
-    align-items: flex-start;
-    flex-direction: row;
-    flex-wrap: wrap;
+    position: relative;
   }
   .closeBtn {
     position: absolute;

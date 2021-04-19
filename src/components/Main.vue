@@ -174,7 +174,6 @@ export default {
     width: 100%;
   }
   .topBar {
-    /* top: 0px; */
     height: 5vh;
     width: 100%;
   }
