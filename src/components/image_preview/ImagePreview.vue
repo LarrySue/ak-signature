@@ -200,8 +200,6 @@ export default {
 
             let width = this.agentWidth * arrJ.length + this.agentXPadding * (arrJ.length - 1)
 
-            console.log(arrJ.length);
-
             let style = {
               position: 'absolute',
               left: xOffset + 'px',
@@ -260,7 +258,7 @@ export default {
   .previewArea {
     display: flex;
     justify-content: flex-start;
-    align-items: center;
+    align-items: flex-start;
     flex-direction: column;
     width: 80%;
     height: 80%;
