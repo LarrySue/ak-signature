@@ -149,6 +149,23 @@ export default {
       if (this.column !== 0) {
         if (this.column < 5) { this.column = 5 }
 
+        let fRow = Math.ceil(this.favouriteAgents.length / this.column)
+        let mRow = Math.ceil(this.meritoriousAgents.length / this.column)
+
+        if ((fRow > 1 || mRow > 1) && this.column <= 5) {
+          this.column = 10
+          fRow = Math.ceil(this.favouriteAgents.length / this.column)
+          mRow = Math.ceil(this.meritoriousAgents.length / this.column)
+        }
+
+        if (fRow !== 0) {
+          this.favouriteHeight = this.agentSectionTopHeight + fRow * (this.agentHeight + this.agentYPadding)
+        }
+
+        if (mRow !== 0) {
+          this.meritoriousHeight = this.agentSectionTopHeight + mRow * (this.agentHeight + this.agentYPadding)
+        }
+
         let AgentSectionsWithLength = []
 
         for (let i = 0; i < AgentSectionsWithClass.length; i++) {
@@ -227,16 +244,16 @@ export default {
 
         if (this.column > 10) { this.column = 10 }
         if (this.column < 5) { this.column = 5 }
-      }
 
-      if (this.favouriteAgents.length !== 0) {
-        let fRow = Math.ceil(this.favouriteAgents.length / 10.0)
-        this.favouriteHeight = this.agentSectionTopHeight + fRow * (this.agentHeight + this.agentYPadding)
-      }
+        if (this.favouriteAgents.length !== 0) {
+          let fRow = Math.ceil(this.favouriteAgents.length / this.column)
+          this.favouriteHeight = this.agentSectionTopHeight + fRow * (this.agentHeight + this.agentYPadding)
+        }
 
-      if (this.meritoriousAgents.length !== 0) {
-        let mRow = Math.ceil(this.meritoriousAgents.length / 10.0)
-        this.meritoriousHeight = this.agentSectionTopHeight + mRow * (this.agentHeight + this.agentYPadding)
+        if (this.meritoriousAgents.length !== 0) {
+          let mRow = Math.ceil(this.meritoriousAgents.length / this.column)
+          this.meritoriousHeight = this.agentSectionTopHeight + mRow * (this.agentHeight + this.agentYPadding)
+        }
       }
 
       this.width = this.marginLeft + this.marginLeft + this.column * this.agentWidth + (this.column - 1) * this.agentXPadding
