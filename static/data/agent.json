@@ -730,6 +730,34 @@
       "lv": 1
     },
     {
+      "id": 6050003,
+      "name": "凯尔希",
+      "class": 4,
+      "star": 6,
+      "skills": [
+        {
+          "id": 0,
+          "name": "指令：结构加固",
+          "rank": 0
+        },
+        {
+          "id": 0,
+          "name": "指令：战术协同",
+          "rank": 0
+        },
+        {
+          "id": 0,
+          "name": "指令：熔毁",
+          "rank": 0
+        }
+      ],
+      "isSelected": false,
+      "type": 0,
+      "potential": 1,
+      "elite": 0,
+      "lv": 1
+    },
+    {
       "id": 6060001,
       "name": "星熊",
       "class": 5,
@@ -982,6 +1010,34 @@
       "lv": 1
     },
     {
+      "id": 6070004,
+      "name": "浊心斯卡蒂",
+      "class": 6,
+      "star": 6,
+      "skills": [
+        {
+          "id": 0,
+          "name": "同归殊途之吟",
+          "rank": 0
+        },
+        {
+          "id": 0,
+          "name": "同葬无光之愿",
+          "rank": 0
+        },
+        {
+          "id": 0,
+          "name": "\"潮涌，潮枯\"",
+          "rank": 0
+        }
+      ],
+      "isSelected": false,
+      "type": 0,
+      "potential": 1,
+      "elite": 0,
+      "lv": 1
+    },
+    {
       "id": 6080001,
       "name": "阿",
       "class": 7,
@@ -1056,6 +1112,34 @@
         {
           "id": 0,
           "name": "液氮大炮",
+          "rank": 0
+        }
+      ],
+      "isSelected": false,
+      "type": 0,
+      "potential": 1,
+      "elite": 0,
+      "lv": 1
+    },
+    {
+      "id": 6080004,
+      "name": "歌蕾蒂娅",
+      "class": 7,
+      "star": 6,
+      "skills": [
+        {
+          "id": 0,
+          "name": "缺水的大洋裂断",
+          "rank": 0
+        },
+        {
+          "id": 0,
+          "name": "缺水的掌握怒海",
+          "rank": 0
+        },
+        {
+          "id": 0,
+          "name": "缺水的碎漩狂舞",
           "rank": 0
         }
       ],
@@ -1815,6 +1899,29 @@
         {
           "id": 0,
           "name": "倾泻弹药",
+          "rank": 0
+        }
+      ],
+      "isSelected": false,
+      "type": 0,
+      "potential": 1,
+      "elite": 0,
+      "lv": 1
+    },
+    {
+      "id": 5030016,
+      "name": "赤冬",
+      "class": 2,
+      "star": 5,
+      "skills": [
+        {
+          "id": 0,
+          "name": "信影流·雷刀之势",
+          "rank": 0
+        },
+        {
+          "id": 0,
+          "name": "信影流·十文字胜",
           "rank": 0
         }
       ],
