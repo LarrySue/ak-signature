@@ -108,10 +108,12 @@ export default {
       }
     },
     calculateVariousSize () {
+      /// 如果签名文字不为空则顶部距离增加
       if (this.playerInfo.name.length !== 0 || this.playerInfo.sign.length !== 0) {
         this.topHeight = 250
       }
 
+      /// 排序
       this.agents.sort((a1, a2) => {
         if (a1.star !== a2.star) {
           return a2.star - a1.star
@@ -124,13 +126,17 @@ export default {
         }
       })
 
+      /// 抽离最爱干员
       this.favouriteAgents = this.agents.filter(e => {
         return e.type === Global.AgentType.FAVOURITE
       })
+
+      /// 抽离功勋干员
       this.meritoriousAgents = this.agents.filter(e => {
         return e.type === Global.AgentType.MERITORIOUS
       })
 
+      /// 抽离主力干员
       let AgentSectionsWithClass = [
         [], [], [], [], [], [], [], []
       ]
@@ -141,10 +147,14 @@ export default {
         AgentSectionsWithClass[e.class].push(e)
       })
 
-      AgentSectionsWithClass = AgentSectionsWithClass.filter(arr => { return arr.length > 0 })
+      /// 按照人数对职业排序
       AgentSectionsWithClass.sort((arr1, arr2) => { return arr2.length - arr1.length })
 
+      /// 以人数最多的职业判断列数 （若为零，则说明没有选择主力干员
       this.column = AgentSectionsWithClass[0].length
+
+      /// 过滤空职业
+      AgentSectionsWithClass = AgentSectionsWithClass.filter(arr => { return arr.length > 0 })
 
       if (this.column !== 0) {
         if (this.column < 5) { this.column = 5 }
