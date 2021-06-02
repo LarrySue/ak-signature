@@ -102,6 +102,15 @@ export default {
       this.selectedAgents = []
     }
 
+    this.selectedAgents.forEach(a => {
+      if (Function.equalNull(a.selectedSkin)) {
+        a.selectedSkin = -1
+      }
+      if (Function.equalNull(a.skins)) {
+        a.skins = []
+      }
+    })
+
     this.agents = require('../../static/data/agent.json').agents
 
     this.selectedAgents.forEach(simplifiedAgent => {
@@ -109,21 +118,28 @@ export default {
         return a.id === simplifiedAgent.id
       })
 
-      if (agent) {
+      if (!Function.equalNull(agent)) {
         agent.type = simplifiedAgent.type
         agent.lv = simplifiedAgent.lv
         agent.potential = simplifiedAgent.potential
         agent.elite = simplifiedAgent.elite
+        agent.selectedSkin = simplifiedAgent.selectedSkin
 
         agent.skills.forEach((s, idx) => {
           s.rank = simplifiedAgent.skillRank[idx]
         })
 
         agent.isSelected = simplifiedAgent.isSelected
+
+        if (simplifiedAgent.skins.length !== agent.skins.length) {
+          simplifiedAgent.skins = agent.skins
+        }
       }
     })
 
-    this.agentClick(this.agents[1])
+    if (this.selectedAgents.length === 0) {
+      this.agentClick(this.agents[1])
+    }
   },
   components: {
     TopBar,

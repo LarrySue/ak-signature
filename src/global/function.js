@@ -13,8 +13,7 @@ export default class Function {
       object === null ||
       typeof (object) === 'undefined' ||
       (typeof (object) === 'number' && isNaN(object)) ||
-      (typeof (object) === 'string' && object.length === 0) ||
-      (Array.isArray(object) && object.length === 0)
+      (typeof (object) === 'string' && object.length === 0)
     )
   }
 
@@ -38,12 +37,14 @@ export default class Function {
     simplifiedAgent.name = agent.name
     simplifiedAgent.class = agent.class
     simplifiedAgent.star = agent.star
+    simplifiedAgent.isSelected = agent.isSelected
     simplifiedAgent.type = agent.type
-    simplifiedAgent.lv = agent.lv
+    simplifiedAgent.skins = agent.skins
+    simplifiedAgent.selectedSkin = agent.selectedSkin
     simplifiedAgent.potential = agent.potential
     simplifiedAgent.elite = agent.elite
+    simplifiedAgent.lv = agent.lv
     simplifiedAgent.skillRank = agent.skills.map(o => { return o.rank })
-    simplifiedAgent.isSelected = agent.isSelected
 
     return simplifiedAgent
   }
@@ -73,20 +74,25 @@ export default class Function {
   }
 
   static getAgentAvatarURL (agent) {
-    let name = agent.name
+    let id = agent.id
+    let star = agent.star
+    let elite = agent.elite
+    let selectedSkin = agent.selectedSkin
 
-    if (this.equalNull(name)) { return }
+    if (this.equalNull(id) || this.equalNull(star) || this.equalNull(elite) || this.equalNull(selectedSkin)) { return }
 
-    if (name.startsWith('阿米娅')) {
-      if (agent.elite === 2) {
-        return '/static/image/agent/avatar/amiya/' + name + '.png'
-      } else {
-        return '/static/image/agent/avatar/amiya/阿米娅' + agent.elite + '.png'
-      }
-    } else if (agent.elite < 2) {
-      return '/static/image/agent/avatar/' + agent.star + '/1/' + name + '.png'
+    let avatar = 1
+
+    if (selectedSkin !== -1) {
+      avatar = selectedSkin
     } else {
-      return '/static/image/agent/avatar/' + agent.star + '/2/' + name + '.png'
+      if (id === 99040001) {
+        avatar = elite
+      } else {
+        avatar = elite === 2 ? 2 : 1
+      }
     }
+
+    return '/static/image/agent/avatar/' + star + '/' + id + '/' + avatar + '.png'
   }
 }

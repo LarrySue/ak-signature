@@ -25,6 +25,14 @@
       ],
       "isSelected": false,
       "type": 0,
+      "skins": [
+        {
+          "id": 190001,
+          "series": "生命之地",
+          "name": "遗石"
+        }
+      ],
+      "selectedSkin": -1,
       "potential": 1,
       "elite": 0,
       "lv": 1
@@ -53,6 +61,14 @@
       ],
       "isSelected": false,
       "type": 0,
+      "skins": [
+        {
+          "id": 190001,
+          "series": "啸风",
+          "name": "皇后一号"
+        }
+      ],
+      "selectedSkin": -1,
       "potential": 1,
       "elite": 0,
       "lv": 1
@@ -81,6 +97,8 @@
       ],
       "isSelected": false,
       "type": 0,
+      "skins": [],
+      "selectedSkin": -1,
       "potential": 1,
       "elite": 0,
       "lv": 1
@@ -109,6 +127,19 @@
       ],
       "isSelected": false,
       "type": 0,
+      "skins": [
+        {
+          "id": 190001,
+          "series": "生命之地",
+          "name": "野地秘行"
+        },
+        {
+          "id": 190002,
+          "series": "合作款(肯德基)",
+          "name": "城市骑手"
+        }
+      ],
+      "selectedSkin": -1,
       "potential": 1,
       "elite": 0,
       "lv": 1
@@ -137,6 +168,19 @@
       ],
       "isSelected": false,
       "type": 0,
+      "skins": [
+        {
+          "id": 190001,
+          "series": "冰原信使",
+          "name": "厚礼"
+        },
+        {
+          "id": 190002,
+          "series": "雷神推进者",
+          "name": "天际线"
+        }
+      ],
+      "selectedSkin": -1,
       "potential": 1,
       "elite": 0,
       "lv": 1
@@ -165,6 +209,14 @@
       ],
       "isSelected": false,
       "type": 0,
+      "skins": [
+        {
+          "id": 190001,
+          "series": "时代",
+          "name": "恍惚"
+        }
+      ],
+      "selectedSkin": -1,
       "potential": 1,
       "elite": 0,
       "lv": 1
@@ -193,6 +245,8 @@
       ],
       "isSelected": false,
       "type": 0,
+      "skins": [],
+      "selectedSkin": -1,
       "potential": 1,
       "elite": 0,
       "lv": 1
@@ -221,6 +275,8 @@
       ],
       "isSelected": false,
       "type": 0,
+      "skins": [],
+      "selectedSkin": -1,
       "potential": 1,
       "elite": 0,
       "lv": 1
@@ -249,6 +305,8 @@
       ],
       "isSelected": false,
       "type": 0,
+      "skins": [],
+      "selectedSkin": -1,
       "potential": 1,
       "elite": 0,
       "lv": 1
@@ -277,6 +335,14 @@
       ],
       "isSelected": false,
       "type": 0,
+      "skins": [
+        {
+          "id": 190001,
+          "series": "合作款(彩虹六号)",
+          "name": "游侠"
+        }
+      ],
+      "selectedSkin": -1,
       "potential": 1,
       "elite": 0,
       "lv": 1
@@ -305,6 +371,19 @@
       ],
       "isSelected": false,
       "type": 0,
+      "skins": [
+        {
+          "id": 190001,
+          "series": "冰原信使",
+          "name": "约克的寒风"
+        },
+        {
+          "id": 190002,
+          "series": "珊瑚海岸",
+          "name": "探寻者 SKm01"
+        }
+      ],
+      "selectedSkin": -1,
       "potential": 1,
       "elite": 0,
       "lv": 1
@@ -333,6 +412,14 @@
       ],
       "isSelected": false,
       "type": 0,
+      "skins": [
+        {
+          "id": 190001,
+          "series": "珊瑚海岸",
+          "name": "驭浪 WR04"
+        }
+      ],
+      "selectedSkin": -1,
       "potential": 1,
       "elite": 0,
       "lv": 1
@@ -361,6 +448,14 @@
       ],
       "isSelected": false,
       "type": 0,
+      "skins": [
+        {
+          "id": 190001,
+          "series": "0011™制造",
+          "name": "岁红霞"
+        }
+      ],
+      "selectedSkin": -1,
       "potential": 1,
       "elite": 0,
       "lv": 1
@@ -389,6 +484,14 @@
       ],
       "isSelected": false,
       "type": 0,
+      "skins": [
+        {
+          "id": 190001,
+          "series": "斗争血脉",
+          "name": "歧路幻影"
+        }
+      ],
+      "selectedSkin": -1,
       "potential": 1,
       "elite": 0,
       "lv": 1
@@ -417,6 +520,14 @@
       ],
       "isSelected": false,
       "type": 0,
+      "skins": [
+        {
+          "id": 190001,
+          "series": "音律联觉",
+          "name": "爆裂菲林"
+        }
+      ],
+      "selectedSkin": -1,
       "potential": 1,
       "elite": 0,
       "lv": 1
@@ -445,6 +556,14 @@
       ],
       "isSelected": false,
       "type": 0,
+      "skins": [
+        {
+          "id": 190001,
+          "series": "合作款(i.t)",
+          "name": "惬意"
+        }
+      ],
+      "selectedSkin": -1,
       "potential": 1,
       "elite": 0,
       "lv": 1
@@ -473,6 +592,14 @@
       ],
       "isSelected": false,
       "type": 0,
+      "skins": [
+        {
+          "id": 190001,
+          "series": "合作款(i.t)",
+          "name": "自由//失效"
+        }
+      ],
+      "selectedSkin": -1,
       "potential": 1,
       "elite": 0,
       "lv": 1
@@ -501,6 +628,14 @@
       ],
       "isSelected": false,
       "type": 0,
+      "skins": [
+        {
+          "id": 190001,
+          "series": "斗争血脉",
+          "name": "乌云"
+        }
+      ],
+      "selectedSkin": -1,
       "potential": 1,
       "elite": 0,
       "lv": 1
@@ -529,6 +664,19 @@
       ],
       "isSelected": false,
       "type": 0,
+      "skins": [
+        {
+          "id": 190001,
+          "series": "珊瑚海岸",
+          "name": "日晒 SS.SP"
+        },
+        {
+          "id": 190002,
+          "series": "合作款(肯德基)",
+          "name": "儿童派对"
+        }
+      ],
+      "selectedSkin": -1,
       "potential": 1,
       "elite": 0,
       "lv": 1
@@ -557,6 +705,8 @@
       ],
       "isSelected": false,
       "type": 0,
+      "skins": [],
+      "selectedSkin": -1,
       "potential": 1,
       "elite": 0,
       "lv": 1
@@ -585,6 +735,14 @@
       ],
       "isSelected": false,
       "type": 0,
+      "skins": [
+        {
+          "id": 190001,
+          "series": "时代",
+          "name": "除魅"
+        }
+      ],
+      "selectedSkin": -1,
       "potential": 1,
       "elite": 0,
       "lv": 1
@@ -613,6 +771,14 @@
       ],
       "isSelected": false,
       "type": 0,
+      "skins": [
+        {
+          "id": 190001,
+          "series": "珊瑚海岸",
+          "name": "夏卉 FA333"
+        }
+      ],
+      "selectedSkin": -1,
       "potential": 1,
       "elite": 0,
       "lv": 1
@@ -641,6 +807,8 @@
       ],
       "isSelected": false,
       "type": 0,
+      "skins": [],
+      "selectedSkin": -1,
       "potential": 1,
       "elite": 0,
       "lv": 1
@@ -669,6 +837,38 @@
       ],
       "isSelected": false,
       "type": 0,
+      "skins": [],
+      "selectedSkin": -1,
+      "potential": 1,
+      "elite": 0,
+      "lv": 1
+    },
+    {
+      "id": 6040007,
+      "name": "卡涅利安",
+      "class": 3,
+      "star": 6,
+      "skills": [
+        {
+          "id": 0,
+          "name": "沙暴守卫",
+          "rank": 0
+        },
+        {
+          "id": 0,
+          "name": "沙缚镣锁",
+          "rank": 0
+        },
+        {
+          "id": 0,
+          "name": "食噬之印",
+          "rank": 0
+        }
+      ],
+      "isSelected": false,
+      "type": 0,
+      "skins": [],
+      "selectedSkin": -1,
       "potential": 1,
       "elite": 0,
       "lv": 1
@@ -697,6 +897,14 @@
       ],
       "isSelected": false,
       "type": 0,
+      "skins": [
+        {
+          "id": 190001,
+          "series": "珊瑚海岸",
+          "name": "静谧午夜 DN02"
+        }
+      ],
+      "selectedSkin": -1,
       "potential": 1,
       "elite": 0,
       "lv": 1
@@ -725,6 +933,14 @@
       ],
       "isSelected": false,
       "type": 0,
+      "skins": [
+        {
+          "id": 190001,
+          "series": "巫异盛宴",
+          "name": "挽歌"
+        }
+      ],
+      "selectedSkin": -1,
       "potential": 1,
       "elite": 0,
       "lv": 1
@@ -753,6 +969,8 @@
       ],
       "isSelected": false,
       "type": 0,
+      "skins": [],
+      "selectedSkin": -1,
       "potential": 1,
       "elite": 0,
       "lv": 1
@@ -781,6 +999,14 @@
       ],
       "isSelected": false,
       "type": 0,
+      "skins": [
+        {
+          "id": 190001,
+          "series": "0011-飙系列",
+          "name": "狩标浪人"
+        }
+      ],
+      "selectedSkin": -1,
       "potential": 1,
       "elite": 0,
       "lv": 1
@@ -809,6 +1035,19 @@
       ],
       "isSelected": false,
       "type": 0,
+      "skins": [
+        {
+          "id": 190001,
+          "series": "斗争血脉",
+          "name": "坚城"
+        },
+        {
+          "id": 190002,
+          "series": "忒斯特收藏",
+          "name": "铁律"
+        }
+      ],
+      "selectedSkin": -1,
       "potential": 1,
       "elite": 0,
       "lv": 1
@@ -837,6 +1076,14 @@
       ],
       "isSelected": false,
       "type": 0,
+      "skins": [
+        {
+          "id": 190001,
+          "series": "0011™制造",
+          "name": "乐逍遥"
+        }
+      ],
+      "selectedSkin": -1,
       "potential": 1,
       "elite": 0,
       "lv": 1
@@ -865,6 +1112,14 @@
       ],
       "isSelected": false,
       "type": 0,
+      "skins": [
+        {
+          "id": 190001,
+          "series": "斗争血脉",
+          "name": "熔锻铸匠"
+        }
+      ],
+      "selectedSkin": -1,
       "potential": 1,
       "elite": 0,
       "lv": 1
@@ -893,6 +1148,8 @@
       ],
       "isSelected": false,
       "type": 0,
+      "skins": [],
+      "selectedSkin": -1,
       "potential": 1,
       "elite": 0,
       "lv": 1
@@ -921,6 +1178,8 @@
       ],
       "isSelected": false,
       "type": 0,
+      "skins": [],
+      "selectedSkin": -1,
       "potential": 1,
       "elite": 0,
       "lv": 1
@@ -949,6 +1208,14 @@
       ],
       "isSelected": false,
       "type": 0,
+      "skins": [
+        {
+          "id": 190001,
+          "series": "斗争血脉",
+          "name": "质素访客"
+        }
+      ],
+      "selectedSkin": -1,
       "potential": 1,
       "elite": 0,
       "lv": 1
@@ -977,6 +1244,14 @@
       ],
       "isSelected": false,
       "type": 0,
+      "skins": [
+        {
+          "id": 190001,
+          "series": "罗德厨房",
+          "name": "回味冰霜雪"
+        }
+      ],
+      "selectedSkin": -1,
       "potential": 1,
       "elite": 0,
       "lv": 1
@@ -1005,6 +1280,14 @@
       ],
       "isSelected": false,
       "type": 0,
+      "skins": [
+        {
+          "id": 190001,
+          "series": "生命之地",
+          "name": "弃土花开"
+        }
+      ],
+      "selectedSkin": -1,
       "potential": 1,
       "elite": 0,
       "lv": 1
@@ -1033,6 +1316,8 @@
       ],
       "isSelected": false,
       "type": 0,
+      "skins": [],
+      "selectedSkin": -1,
       "potential": 1,
       "elite": 0,
       "lv": 1
@@ -1061,6 +1346,14 @@
       ],
       "isSelected": false,
       "type": 0,
+      "skins": [
+        {
+          "id": 190001,
+          "series": "0011™制造",
+          "name": "百面郎中"
+        }
+      ],
+      "selectedSkin": -1,
       "potential": 1,
       "elite": 0,
       "lv": 1
@@ -1089,6 +1382,14 @@
       ],
       "isSelected": false,
       "type": 0,
+      "skins": [
+        {
+          "id": 190001,
+          "series": "缠梦古堡",
+          "name": "梦魇之梦"
+        }
+      ],
+      "selectedSkin": -1,
       "potential": 1,
       "elite": 0,
       "lv": 1
@@ -1117,6 +1418,14 @@
       ],
       "isSelected": false,
       "type": 0,
+      "skins": [
+        {
+          "id": 190001,
+          "series": "冰原信使",
+          "name": "糖果仙子"
+        }
+      ],
+      "selectedSkin": -1,
       "potential": 1,
       "elite": 0,
       "lv": 1
@@ -1145,6 +1454,8 @@
       ],
       "isSelected": false,
       "type": 0,
+      "skins": [],
+      "selectedSkin": -1,
       "potential": 1,
       "elite": 0,
       "lv": 1
@@ -1168,6 +1479,19 @@
       ],
       "isSelected": false,
       "type": 0,
+      "skins": [
+        {
+          "id": 190001,
+          "series": "玛尔特",
+          "name": "整装待发"
+        },
+        {
+          "id": 190002,
+          "series": "合作款(i.t)",
+          "name": "乌萨斯IO79"
+        }
+      ],
+      "selectedSkin": -1,
       "potential": 1,
       "elite": 0,
       "lv": 1
@@ -1191,6 +1515,19 @@
       ],
       "isSelected": false,
       "type": 0,
+      "skins": [
+        {
+          "id": 190001,
+          "series": "寒武纪™",
+          "name": "寒冬信使"
+        },
+        {
+          "id": 190002,
+          "series": "时代",
+          "name": "意志"
+        }
+      ],
+      "selectedSkin": -1,
       "potential": 1,
       "elite": 0,
       "lv": 1
@@ -1214,6 +1551,14 @@
       ],
       "isSelected": false,
       "type": 0,
+      "skins": [
+        {
+          "id": 190001,
+          "series": "时代",
+          "name": "美妙时光"
+        }
+      ],
+      "selectedSkin": -1,
       "potential": 1,
       "elite": 0,
       "lv": 1
@@ -1237,6 +1582,8 @@
       ],
       "isSelected": false,
       "type": 0,
+      "skins": [],
+      "selectedSkin": -1,
       "potential": 1,
       "elite": 0,
       "lv": 1
@@ -1260,6 +1607,14 @@
       ],
       "isSelected": false,
       "type": 0,
+      "skins": [
+        {
+          "id": 190001,
+          "series": "冰原信使",
+          "name": "雪夜回音"
+        }
+      ],
+      "selectedSkin": -1,
       "potential": 1,
       "elite": 0,
       "lv": 1
@@ -1283,6 +1638,8 @@
       ],
       "isSelected": false,
       "type": 0,
+      "skins": [],
+      "selectedSkin": -1,
       "potential": 1,
       "elite": 0,
       "lv": 1
@@ -1306,6 +1663,14 @@
       ],
       "isSelected": false,
       "type": 0,
+      "skins": [
+        {
+          "id": 190001,
+          "series": "玛尔特",
+          "name": "浅滩律动"
+        }
+      ],
+      "selectedSkin": -1,
       "potential": 1,
       "elite": 0,
       "lv": 1
@@ -1329,6 +1694,14 @@
       ],
       "isSelected": false,
       "type": 0,
+      "skins": [
+        {
+          "id": 190001,
+          "series": "珊瑚海岸",
+          "name": "灿阳朝露 SD05"
+        }
+      ],
+      "selectedSkin": -1,
       "potential": 1,
       "elite": 0,
       "lv": 1
@@ -1352,6 +1725,14 @@
       ],
       "isSelected": false,
       "type": 0,
+      "skins": [
+        {
+          "id": 190001,
+          "series": "雷神开拓者",
+          "name": "石墨"
+        }
+      ],
+      "selectedSkin": -1,
       "potential": 1,
       "elite": 0,
       "lv": 1
@@ -1375,6 +1756,14 @@
       ],
       "isSelected": false,
       "type": 0,
+      "skins": [
+        {
+          "id": 190001,
+          "series": "珊瑚海岸",
+          "name": "悠然假日 HD08"
+        }
+      ],
+      "selectedSkin": -1,
       "potential": 1,
       "elite": 0,
       "lv": 1
@@ -1398,6 +1787,19 @@
       ],
       "isSelected": false,
       "type": 0,
+      "skins": [
+        {
+          "id": 190001,
+          "series": "生命之地",
+          "name": "枯柏"
+        },
+        {
+          "id": 190002,
+          "series": "冰原信使",
+          "name": "覆雪"
+        }
+      ],
+      "selectedSkin": -1,
       "potential": 1,
       "elite": 0,
       "lv": 1
@@ -1421,6 +1823,14 @@
       ],
       "isSelected": false,
       "type": 0,
+      "skins": [
+        {
+          "id": 190001,
+          "series": "斗争血脉",
+          "name": "无题密令"
+        }
+      ],
+      "selectedSkin": -1,
       "potential": 1,
       "elite": 0,
       "lv": 1
@@ -1444,6 +1854,14 @@
       ],
       "isSelected": false,
       "type": 0,
+      "skins": [
+        {
+          "id": 190001,
+          "series": "斗争血脉",
+          "name": "归巢"
+        }
+      ],
+      "selectedSkin": -1,
       "potential": 1,
       "elite": 0,
       "lv": 1
@@ -1467,6 +1885,8 @@
       ],
       "isSelected": false,
       "type": 0,
+      "skins": [],
+      "selectedSkin": -1,
       "potential": 1,
       "elite": 0,
       "lv": 1
@@ -1490,6 +1910,8 @@
       ],
       "isSelected": false,
       "type": 0,
+      "skins": [],
+      "selectedSkin": -1,
       "potential": 1,
       "elite": 0,
       "lv": 1
@@ -1513,6 +1935,14 @@
       ],
       "isSelected": false,
       "type": 0,
+      "skins": [
+        {
+          "id": 190001,
+          "series": "生命之地",
+          "name": "远望"
+        }
+      ],
+      "selectedSkin": -1,
       "potential": 1,
       "elite": 0,
       "lv": 1
@@ -1536,6 +1966,8 @@
       ],
       "isSelected": false,
       "type": 0,
+      "skins": [],
+      "selectedSkin": -1,
       "potential": 1,
       "elite": 0,
       "lv": 1
@@ -1559,6 +1991,8 @@
       ],
       "isSelected": false,
       "type": 0,
+      "skins": [],
+      "selectedSkin": -1,
       "potential": 1,
       "elite": 0,
       "lv": 1
@@ -1582,6 +2016,8 @@
       ],
       "isSelected": false,
       "type": 0,
+      "skins": [],
+      "selectedSkin": -1,
       "potential": 1,
       "elite": 0,
       "lv": 1
@@ -1605,6 +2041,8 @@
       ],
       "isSelected": false,
       "type": 0,
+      "skins": [],
+      "selectedSkin": -1,
       "potential": 1,
       "elite": 0,
       "lv": 1
@@ -1628,6 +2066,14 @@
       ],
       "isSelected": false,
       "type": 0,
+      "skins": [
+        {
+          "id": 190001,
+          "series": "斗争血脉",
+          "name": "典雅噩兆"
+        }
+      ],
+      "selectedSkin": -1,
       "potential": 1,
       "elite": 0,
       "lv": 1
@@ -1651,6 +2097,14 @@
       ],
       "isSelected": false,
       "type": 0,
+      "skins": [
+        {
+          "id": 190001,
+          "series": "寒武纪™",
+          "name": "暗流"
+        }
+      ],
+      "selectedSkin": -1,
       "potential": 1,
       "elite": 0,
       "lv": 1
@@ -1674,6 +2128,8 @@
       ],
       "isSelected": false,
       "type": 0,
+      "skins": [],
+      "selectedSkin": -1,
       "potential": 1,
       "elite": 0,
       "lv": 1
@@ -1697,6 +2153,14 @@
       ],
       "isSelected": false,
       "type": 0,
+      "skins": [
+        {
+          "id": 190001,
+          "series": "0011™制造",
+          "name": "富贵荣华"
+        }
+      ],
+      "selectedSkin": -1,
       "potential": 1,
       "elite": 0,
       "lv": 1
@@ -1720,6 +2184,14 @@
       ],
       "isSelected": false,
       "type": 0,
+      "skins": [
+        {
+          "id": 190001,
+          "series": "时代",
+          "name": "寻耀"
+        }
+      ],
+      "selectedSkin": -1,
       "potential": 1,
       "elite": 0,
       "lv": 1
@@ -1743,6 +2215,8 @@
       ],
       "isSelected": false,
       "type": 0,
+      "skins": [],
+      "selectedSkin": -1,
       "potential": 1,
       "elite": 0,
       "lv": 1
@@ -1766,6 +2240,8 @@
       ],
       "isSelected": false,
       "type": 0,
+      "skins": [],
+      "selectedSkin": -1,
       "potential": 1,
       "elite": 0,
       "lv": 1
@@ -1789,6 +2265,14 @@
       ],
       "isSelected": false,
       "type": 0,
+      "skins": [
+        {
+          "id": 190001,
+          "series": "寒武纪™",
+          "name": "软绒"
+        }
+      ],
+      "selectedSkin": -1,
       "potential": 1,
       "elite": 0,
       "lv": 1
@@ -1812,6 +2296,8 @@
       ],
       "isSelected": false,
       "type": 0,
+      "skins": [],
+      "selectedSkin": -1,
       "potential": 1,
       "elite": 0,
       "lv": 1
@@ -1835,6 +2321,14 @@
       ],
       "isSelected": false,
       "type": 0,
+      "skins": [
+        {
+          "id": 190001,
+          "series": "斗争血脉",
+          "name": "受验者"
+        }
+      ],
+      "selectedSkin": -1,
       "potential": 1,
       "elite": 0,
       "lv": 1
@@ -1858,6 +2352,14 @@
       ],
       "isSelected": false,
       "type": 0,
+      "skins": [
+        {
+          "id": 190001,
+          "series": "斗争血脉",
+          "name": "绚烂夏花"
+        }
+      ],
+      "selectedSkin": -1,
       "potential": 1,
       "elite": 0,
       "lv": 1
@@ -1881,6 +2383,8 @@
       ],
       "isSelected": false,
       "type": 0,
+      "skins": [],
+      "selectedSkin": -1,
       "potential": 1,
       "elite": 0,
       "lv": 1
@@ -1904,6 +2408,14 @@
       ],
       "isSelected": false,
       "type": 0,
+      "skins": [
+        {
+          "id": 190001,
+          "series": "合作款(彩虹六号)",
+          "name": "领主"
+        }
+      ],
+      "selectedSkin": -1,
       "potential": 1,
       "elite": 0,
       "lv": 1
@@ -1927,6 +2439,8 @@
       ],
       "isSelected": false,
       "type": 0,
+      "skins": [],
+      "selectedSkin": -1,
       "potential": 1,
       "elite": 0,
       "lv": 1
@@ -1950,6 +2464,14 @@
       ],
       "isSelected": false,
       "type": 0,
+      "skins": [
+        {
+          "id": 190001,
+          "series": "珊瑚海岸",
+          "name": "温差 RT.RX01"
+        }
+      ],
+      "selectedSkin": -1,
       "potential": 1,
       "elite": 0,
       "lv": 1
@@ -1973,6 +2495,14 @@
       ],
       "isSelected": false,
       "type": 0,
+      "skins": [
+        {
+          "id": 190001,
+          "series": "时代",
+          "name": "光影"
+        }
+      ],
+      "selectedSkin": -1,
       "potential": 1,
       "elite": 0,
       "lv": 1
@@ -1996,6 +2526,8 @@
       ],
       "isSelected": false,
       "type": 0,
+      "skins": [],
+      "selectedSkin": -1,
       "potential": 1,
       "elite": 0,
       "lv": 1
@@ -2019,6 +2551,8 @@
       ],
       "isSelected": false,
       "type": 0,
+      "skins": [],
+      "selectedSkin": -1,
       "potential": 1,
       "elite": 0,
       "lv": 1
@@ -2042,6 +2576,14 @@
       ],
       "isSelected": false,
       "type": 0,
+      "skins": [
+        {
+          "id": 190001,
+          "series": "生命之地",
+          "name": "宝藏行家"
+        }
+      ],
+      "selectedSkin": -1,
       "potential": 1,
       "elite": 0,
       "lv": 1
@@ -2065,6 +2607,8 @@
       ],
       "isSelected": false,
       "type": 0,
+      "skins": [],
+      "selectedSkin": -1,
       "potential": 1,
       "elite": 0,
       "lv": 1
@@ -2088,6 +2632,8 @@
       ],
       "isSelected": false,
       "type": 0,
+      "skins": [],
+      "selectedSkin": -1,
       "potential": 1,
       "elite": 0,
       "lv": 1
@@ -2111,6 +2657,8 @@
       ],
       "isSelected": false,
       "type": 0,
+      "skins": [],
+      "selectedSkin": -1,
       "potential": 1,
       "elite": 0,
       "lv": 1
@@ -2134,6 +2682,8 @@
       ],
       "isSelected": false,
       "type": 0,
+      "skins": [],
+      "selectedSkin": -1,
       "potential": 1,
       "elite": 0,
       "lv": 1
@@ -2157,6 +2707,33 @@
       ],
       "isSelected": false,
       "type": 0,
+      "skins": [],
+      "selectedSkin": -1,
+      "potential": 1,
+      "elite": 0,
+      "lv": 1
+    },
+    {
+      "id": 5040011,
+      "name": "深靛",
+      "class": 3,
+      "star": 5,
+      "skills": [
+        {
+          "id": 0,
+          "name": "灯塔守卫者",
+          "rank": 0
+        },
+        {
+          "id": 0,
+          "name": "光影迷宫",
+          "rank": 0
+        }
+      ],
+      "isSelected": false,
+      "type": 0,
+      "skins": [],
+      "selectedSkin": -1,
       "potential": 1,
       "elite": 0,
       "lv": 1
@@ -2180,6 +2757,14 @@
       ],
       "isSelected": false,
       "type": 0,
+      "skins": [
+        {
+          "id": 190001,
+          "series": "时代",
+          "name": "幽静"
+        }
+      ],
+      "selectedSkin": -1,
       "potential": 1,
       "elite": 0,
       "lv": 1
@@ -2203,6 +2788,19 @@
       ],
       "isSelected": false,
       "type": 0,
+      "skins": [
+        {
+          "id": 190001,
+          "series": "雷神开拓者",
+          "name": "漆匠"
+        },
+        {
+          "id": 190002,
+          "series": "寒武纪™",
+          "name": "霜息"
+        }
+      ],
+      "selectedSkin": -1,
       "potential": 1,
       "elite": 0,
       "lv": 1
@@ -2226,6 +2824,14 @@
       ],
       "isSelected": false,
       "type": 0,
+      "skins": [
+        {
+          "id": 190001,
+          "series": "巫异盛宴",
+          "name": "盛宴"
+        }
+      ],
+      "selectedSkin": -1,
       "potential": 1,
       "elite": 0,
       "lv": 1
@@ -2249,6 +2855,8 @@
       ],
       "isSelected": false,
       "type": 0,
+      "skins": [],
+      "selectedSkin": -1,
       "potential": 1,
       "elite": 0,
       "lv": 1
@@ -2272,6 +2880,8 @@
       ],
       "isSelected": false,
       "type": 0,
+      "skins": [],
+      "selectedSkin": -1,
       "potential": 1,
       "elite": 0,
       "lv": 1
@@ -2295,6 +2905,8 @@
       ],
       "isSelected": false,
       "type": 0,
+      "skins": [],
+      "selectedSkin": -1,
       "potential": 1,
       "elite": 0,
       "lv": 1
@@ -2318,6 +2930,14 @@
       ],
       "isSelected": false,
       "type": 0,
+      "skins": [
+        {
+          "id": 190001,
+          "series": "0011™制造",
+          "name": "孤寒峭"
+        }
+      ],
+      "selectedSkin": -1,
       "potential": 1,
       "elite": 0,
       "lv": 1
@@ -2341,6 +2961,8 @@
       ],
       "isSelected": false,
       "type": 0,
+      "skins": [],
+      "selectedSkin": -1,
       "potential": 1,
       "elite": 0,
       "lv": 1
@@ -2364,6 +2986,14 @@
       ],
       "isSelected": false,
       "type": 0,
+      "skins": [
+        {
+          "id": 190001,
+          "series": "珊瑚海岸",
+          "name": "灿阳朝露 SD01"
+        }
+      ],
+      "selectedSkin": -1,
       "potential": 1,
       "elite": 0,
       "lv": 1
@@ -2387,6 +3017,19 @@
       ],
       "isSelected": false,
       "type": 0,
+      "skins": [
+        {
+          "id": 190001,
+          "series": "0011™制造",
+          "name": "春竜"
+        },
+        {
+          "id": 190002,
+          "series": "雷神推进者",
+          "name": "超载"
+        }
+      ],
+      "selectedSkin": -1,
       "potential": 1,
       "elite": 0,
       "lv": 1
@@ -2410,6 +3053,19 @@
       ],
       "isSelected": false,
       "type": 0,
+      "skins": [
+        {
+          "id": 190001,
+          "series": "合作款(肯德基)",
+          "name": "清晨七点"
+        },
+        {
+          "id": 190002,
+          "series": "珊瑚海岸",
+          "name": "探寻者 SK03"
+        }
+      ],
+      "selectedSkin": -1,
       "potential": 1,
       "elite": 0,
       "lv": 1
@@ -2433,6 +3089,8 @@
       ],
       "isSelected": false,
       "type": 0,
+      "skins": [],
+      "selectedSkin": -1,
       "potential": 1,
       "elite": 0,
       "lv": 1
@@ -2456,6 +3114,8 @@
       ],
       "isSelected": false,
       "type": 0,
+      "skins": [],
+      "selectedSkin": -1,
       "potential": 1,
       "elite": 0,
       "lv": 1
@@ -2479,6 +3139,14 @@
       ],
       "isSelected": false,
       "type": 0,
+      "skins": [
+        {
+          "id": 190001,
+          "series": "0011™制造",
+          "name": "一介车夫"
+        }
+      ],
+      "selectedSkin": -1,
       "potential": 1,
       "elite": 0,
       "lv": 1
@@ -2502,6 +3170,8 @@
       ],
       "isSelected": false,
       "type": 0,
+      "skins": [],
+      "selectedSkin": -1,
       "potential": 1,
       "elite": 0,
       "lv": 1
@@ -2525,6 +3195,8 @@
       ],
       "isSelected": false,
       "type": 0,
+      "skins": [],
+      "selectedSkin": -1,
       "potential": 1,
       "elite": 0,
       "lv": 1
@@ -2548,6 +3220,8 @@
       ],
       "isSelected": false,
       "type": 0,
+      "skins": [],
+      "selectedSkin": -1,
       "potential": 1,
       "elite": 0,
       "lv": 1
@@ -2571,6 +3245,14 @@
       ],
       "isSelected": false,
       "type": 0,
+      "skins": [
+        {
+          "id": 190001,
+          "series": "缠梦古堡",
+          "name": "庭院寻梦尖兵"
+        }
+      ],
+      "selectedSkin": -1,
       "potential": 1,
       "elite": 0,
       "lv": 1
@@ -2594,6 +3276,14 @@
       ],
       "isSelected": false,
       "type": 0,
+      "skins": [
+        {
+          "id": 190001,
+          "series": "冰原信使",
+          "name": "开斯特之霜"
+        }
+      ],
+      "selectedSkin": -1,
       "potential": 1,
       "elite": 0,
       "lv": 1
@@ -2617,6 +3307,14 @@
       ],
       "isSelected": false,
       "type": 0,
+      "skins": [
+        {
+          "id": 190001,
+          "series": "罗德厨房",
+          "name": "书味"
+        }
+      ],
+      "selectedSkin": -1,
       "potential": 1,
       "elite": 0,
       "lv": 1
@@ -2640,6 +3338,14 @@
       ],
       "isSelected": false,
       "type": 0,
+      "skins": [
+        {
+          "id": 190001,
+          "series": "珊瑚海岸",
+          "name": "夏卉 FA361"
+        }
+      ],
+      "selectedSkin": -1,
       "potential": 1,
       "elite": 0,
       "lv": 1
@@ -2663,6 +3369,14 @@
       ],
       "isSelected": false,
       "type": 0,
+      "skins": [
+        {
+          "id": 190001,
+          "series": "缠梦古堡",
+          "name": "广场扫荡客"
+        }
+      ],
+      "selectedSkin": -1,
       "potential": 1,
       "elite": 0,
       "lv": 1
@@ -2686,6 +3400,8 @@
       ],
       "isSelected": false,
       "type": 0,
+      "skins": [],
+      "selectedSkin": -1,
       "potential": 1,
       "elite": 0,
       "lv": 1
@@ -2709,6 +3425,8 @@
       ],
       "isSelected": false,
       "type": 0,
+      "skins": [],
+      "selectedSkin": -1,
       "potential": 1,
       "elite": 0,
       "lv": 1
@@ -2732,6 +3450,8 @@
       ],
       "isSelected": false,
       "type": 0,
+      "skins": [],
+      "selectedSkin": -1,
       "potential": 1,
       "elite": 0,
       "lv": 1
@@ -2755,6 +3475,8 @@
       ],
       "isSelected": false,
       "type": 0,
+      "skins": [],
+      "selectedSkin": -1,
       "potential": 1,
       "elite": 0,
       "lv": 1
@@ -2778,6 +3500,19 @@
       ],
       "isSelected": false,
       "type": 0,
+      "skins": [
+        {
+          "id": 190001,
+          "series": "生命之地",
+          "name": "孤攀客"
+        },
+        {
+          "id": 190002,
+          "series": "合作款(WWF)",
+          "name": "高原访客"
+        }
+      ],
+      "selectedSkin": -1,
       "potential": 1,
       "elite": 0,
       "lv": 1
@@ -2801,6 +3536,14 @@
       ],
       "isSelected": false,
       "type": 0,
+      "skins": [
+        {
+          "id": 190001,
+          "series": "时代",
+          "name": "无形悼挽"
+        }
+      ],
+      "selectedSkin": -1,
       "potential": 1,
       "elite": 0,
       "lv": 1
@@ -2824,6 +3567,14 @@
       ],
       "isSelected": false,
       "type": 0,
+      "skins": [
+        {
+          "id": 190001,
+          "series": "玛尔特",
+          "name": "片场一角"
+        }
+      ],
+      "selectedSkin": -1,
       "potential": 1,
       "elite": 0,
       "lv": 1
@@ -2847,6 +3598,8 @@
       ],
       "isSelected": false,
       "type": 0,
+      "skins": [],
+      "selectedSkin": -1,
       "potential": 1,
       "elite": 0,
       "lv": 1
@@ -2870,6 +3623,8 @@
       ],
       "isSelected": false,
       "type": 0,
+      "skins": [],
+      "selectedSkin": -1,
       "potential": 1,
       "elite": 0,
       "lv": 1
@@ -2893,6 +3648,8 @@
       ],
       "isSelected": false,
       "type": 0,
+      "skins": [],
+      "selectedSkin": -1,
       "potential": 1,
       "elite": 0,
       "lv": 1
@@ -2916,6 +3673,8 @@
       ],
       "isSelected": false,
       "type": 0,
+      "skins": [],
+      "selectedSkin": -1,
       "potential": 1,
       "elite": 0,
       "lv": 1
@@ -2939,6 +3698,8 @@
       ],
       "isSelected": false,
       "type": 0,
+      "skins": [],
+      "selectedSkin": -1,
       "potential": 1,
       "elite": 0,
       "lv": 1
@@ -2962,6 +3723,58 @@
       ],
       "isSelected": false,
       "type": 0,
+      "skins": [],
+      "selectedSkin": -1,
+      "potential": 1,
+      "elite": 0,
+      "lv": 1
+    },
+    {
+      "id": 5080011,
+      "name": "绮良",
+      "class": 7,
+      "star": 5,
+      "skills": [
+        {
+          "id": 0,
+          "name": "锚击",
+          "rank": 0
+        },
+        {
+          "id": 0,
+          "name": "锚点捕捉",
+          "rank": 0
+        }
+      ],
+      "isSelected": false,
+      "type": 0,
+      "skins": [],
+      "selectedSkin": -1,
+      "potential": 1,
+      "elite": 0,
+      "lv": 1
+    },
+    {
+      "id": 5080012,
+      "name": "贝娜",
+      "class": 7,
+      "star": 5,
+      "skills": [
+        {
+          "id": 0,
+          "name": "奋力修剪",
+          "rank": 0
+        },
+        {
+          "id": 0,
+          "name": "快速修剪",
+          "rank": 0
+        }
+      ],
+      "isSelected": false,
+      "type": 0,
+      "skins": [],
+      "selectedSkin": -1,
       "potential": 1,
       "elite": 0,
       "lv": 1
@@ -2985,6 +3798,19 @@
       ],
       "isSelected": false,
       "type": 0,
+      "skins": [
+        {
+          "id": 190001,
+          "series": "寒武纪™",
+          "name": "新航线"
+        },
+        {
+          "id": 190002,
+          "series": "音律联觉",
+          "name": "无言狂响"
+        }
+      ],
+      "selectedSkin": -1,
       "potential": 1,
       "elite": 0,
       "lv": 1
@@ -3008,6 +3834,8 @@
       ],
       "isSelected": false,
       "type": 0,
+      "skins": [],
+      "selectedSkin": -1,
       "potential": 1,
       "elite": 0,
       "lv": 1
@@ -3031,6 +3859,19 @@
       ],
       "isSelected": false,
       "type": 0,
+      "skins": [
+        {
+          "id": 190001,
+          "series": "珊瑚海岸",
+          "name": "悠然假日 HD01"
+        },
+        {
+          "id": 190002,
+          "series": "音律联觉",
+          "name": "漆黑热浪"
+        }
+      ],
+      "selectedSkin": -1,
       "potential": 1,
       "elite": 0,
       "lv": 1
@@ -3054,6 +3895,8 @@
       ],
       "isSelected": false,
       "type": 0,
+      "skins": [],
+      "selectedSkin": -1,
       "potential": 1,
       "elite": 0,
       "lv": 1
@@ -3077,6 +3920,8 @@
       ],
       "isSelected": false,
       "type": 0,
+      "skins": [],
+      "selectedSkin": -1,
       "potential": 1,
       "elite": 0,
       "lv": 1
@@ -3100,6 +3945,24 @@
       ],
       "isSelected": false,
       "type": 0,
+      "skins": [
+        {
+          "id": 190001,
+          "series": "雷神开拓者",
+          "name": "铁块"
+        },
+        {
+          "id": 190002,
+          "series": "生命之地",
+          "name": "燃灰"
+        },
+        {
+          "id": 190003,
+          "series": "0011™制造",
+          "name": "君子兰"
+        }
+      ],
+      "selectedSkin": -1,
       "potential": 1,
       "elite": 0,
       "lv": 1
@@ -3123,6 +3986,8 @@
       ],
       "isSelected": false,
       "type": 0,
+      "skins": [],
+      "selectedSkin": -1,
       "potential": 1,
       "elite": 0,
       "lv": 1
@@ -3146,6 +4011,14 @@
       ],
       "isSelected": false,
       "type": 0,
+      "skins": [
+        {
+          "id": 190001,
+          "series": "斗争血脉",
+          "name": "曲刃晴风"
+        }
+      ],
+      "selectedSkin": -1,
       "potential": 1,
       "elite": 0,
       "lv": 1
@@ -3169,6 +4042,8 @@
       ],
       "isSelected": false,
       "type": 0,
+      "skins": [],
+      "selectedSkin": -1,
       "potential": 1,
       "elite": 0,
       "lv": 1
@@ -3192,6 +4067,8 @@
       ],
       "isSelected": false,
       "type": 0,
+      "skins": [],
+      "selectedSkin": -1,
       "potential": 1,
       "elite": 0,
       "lv": 1
@@ -3215,6 +4092,8 @@
       ],
       "isSelected": false,
       "type": 0,
+      "skins": [],
+      "selectedSkin": -1,
       "potential": 1,
       "elite": 0,
       "lv": 1
@@ -3238,6 +4117,8 @@
       ],
       "isSelected": false,
       "type": 0,
+      "skins": [],
+      "selectedSkin": -1,
       "potential": 1,
       "elite": 0,
       "lv": 1
@@ -3261,6 +4142,8 @@
       ],
       "isSelected": false,
       "type": 0,
+      "skins": [],
+      "selectedSkin": -1,
       "potential": 1,
       "elite": 0,
       "lv": 1
@@ -3284,6 +4167,14 @@
       ],
       "isSelected": false,
       "type": 0,
+      "skins": [
+        {
+          "id": 190001,
+          "series": "时代",
+          "name": "少尉"
+        }
+      ],
+      "selectedSkin": -1,
       "potential": 1,
       "elite": 0,
       "lv": 1
@@ -3307,6 +4198,8 @@
       ],
       "isSelected": false,
       "type": 0,
+      "skins": [],
+      "selectedSkin": -1,
       "potential": 1,
       "elite": 0,
       "lv": 1
@@ -3330,6 +4223,8 @@
       ],
       "isSelected": false,
       "type": 0,
+      "skins": [],
+      "selectedSkin": -1,
       "potential": 1,
       "elite": 0,
       "lv": 1
@@ -3353,6 +4248,8 @@
       ],
       "isSelected": false,
       "type": 0,
+      "skins": [],
+      "selectedSkin": -1,
       "potential": 1,
       "elite": 0,
       "lv": 1
@@ -3376,6 +4273,8 @@
       ],
       "isSelected": false,
       "type": 0,
+      "skins": [],
+      "selectedSkin": -1,
       "potential": 1,
       "elite": 0,
       "lv": 1
@@ -3399,6 +4298,14 @@
       ],
       "isSelected": false,
       "type": 0,
+      "skins": [
+        {
+          "id": 190001,
+          "series": "罗德厨房",
+          "name": "掠蜜能手"
+        }
+      ],
+      "selectedSkin": -1,
       "potential": 1,
       "elite": 0,
       "lv": 1
@@ -3422,6 +4329,14 @@
       ],
       "isSelected": false,
       "type": 0,
+      "skins": [
+        {
+          "id": 190001,
+          "series": "珊瑚海岸",
+          "name": "夏卉 FA661"
+        }
+      ],
+      "selectedSkin": -1,
       "potential": 1,
       "elite": 0,
       "lv": 1
@@ -3445,6 +4360,8 @@
       ],
       "isSelected": false,
       "type": 0,
+      "skins": [],
+      "selectedSkin": -1,
       "potential": 1,
       "elite": 0,
       "lv": 1
@@ -3468,6 +4385,8 @@
       ],
       "isSelected": false,
       "type": 0,
+      "skins": [],
+      "selectedSkin": -1,
       "potential": 1,
       "elite": 0,
       "lv": 1
@@ -3491,6 +4410,14 @@
       ],
       "isSelected": false,
       "type": 0,
+      "skins": [
+        {
+          "id": 190001,
+          "series": "寒武纪™",
+          "name": "随性"
+        }
+      ],
+      "selectedSkin": -1,
       "potential": 1,
       "elite": 0,
       "lv": 1
@@ -3514,6 +4441,8 @@
       ],
       "isSelected": false,
       "type": 0,
+      "skins": [],
+      "selectedSkin": -1,
       "potential": 1,
       "elite": 0,
       "lv": 1
@@ -3537,6 +4466,8 @@
       ],
       "isSelected": false,
       "type": 0,
+      "skins": [],
+      "selectedSkin": -1,
       "potential": 1,
       "elite": 0,
       "lv": 1
@@ -3560,6 +4491,14 @@
       ],
       "isSelected": false,
       "type": 0,
+      "skins": [
+        {
+          "id": 190001,
+          "series": "时代",
+          "name": "未知的旅行"
+        }
+      ],
+      "selectedSkin": -1,
       "potential": 1,
       "elite": 0,
       "lv": 1
@@ -3583,6 +4522,14 @@
       ],
       "isSelected": false,
       "type": 0,
+      "skins": [
+        {
+          "id": 190001,
+          "series": "时代",
+          "name": "八音蛋匠人"
+        }
+      ],
+      "selectedSkin": -1,
       "potential": 1,
       "elite": 0,
       "lv": 1
@@ -3606,6 +4553,8 @@
       ],
       "isSelected": false,
       "type": 0,
+      "skins": [],
+      "selectedSkin": -1,
       "potential": 1,
       "elite": 0,
       "lv": 1
@@ -3629,6 +4578,14 @@
       ],
       "isSelected": false,
       "type": 0,
+      "skins": [
+        {
+          "id": 190001,
+          "series": "生命之地",
+          "name": "辛味"
+        }
+      ],
+      "selectedSkin": -1,
       "potential": 1,
       "elite": 0,
       "lv": 1
@@ -3652,6 +4609,14 @@
       ],
       "isSelected": false,
       "type": 0,
+      "skins": [
+        {
+          "id": 190001,
+          "series": "时代",
+          "name": "战医"
+        }
+      ],
+      "selectedSkin": -1,
       "potential": 1,
       "elite": 0,
       "lv": 1
@@ -3675,6 +4640,14 @@
       ],
       "isSelected": false,
       "type": 0,
+      "skins": [
+        {
+          "id": 190001,
+          "series": "忒斯特收藏",
+          "name": "植物种志"
+        }
+      ],
+      "selectedSkin": -1,
       "potential": 1,
       "elite": 0,
       "lv": 1
@@ -3698,6 +4671,8 @@
       ],
       "isSelected": false,
       "type": 0,
+      "skins": [],
+      "selectedSkin": -1,
       "potential": 1,
       "elite": 0,
       "lv": 1
@@ -3721,6 +4696,8 @@
       ],
       "isSelected": false,
       "type": 0,
+      "skins": [],
+      "selectedSkin": -1,
       "potential": 1,
       "elite": 0,
       "lv": 1
@@ -3744,6 +4721,14 @@
       ],
       "isSelected": false,
       "type": 0,
+      "skins": [
+        {
+          "id": 190001,
+          "series": "珊瑚海岸",
+          "name": "沙滩护卫 GT.001"
+        }
+      ],
+      "selectedSkin": -1,
       "potential": 1,
       "elite": 0,
       "lv": 1
@@ -3767,6 +4752,14 @@
       ],
       "isSelected": false,
       "type": 0,
+      "skins": [
+        {
+          "id": 190001,
+          "series": "生命之地",
+          "name": "四边形"
+        }
+      ],
+      "selectedSkin": -1,
       "potential": 1,
       "elite": 0,
       "lv": 1
@@ -3790,6 +4783,14 @@
       ],
       "isSelected": false,
       "type": 0,
+      "skins": [
+        {
+          "id": 190001,
+          "series": "珊瑚海岸",
+          "name": "夏卉 FA011"
+        }
+      ],
+      "selectedSkin": -1,
       "potential": 1,
       "elite": 0,
       "lv": 1
@@ -3813,6 +4814,8 @@
       ],
       "isSelected": false,
       "type": 0,
+      "skins": [],
+      "selectedSkin": -1,
       "potential": 1,
       "elite": 0,
       "lv": 1
@@ -3836,6 +4839,8 @@
       ],
       "isSelected": false,
       "type": 0,
+      "skins": [],
+      "selectedSkin": -1,
       "potential": 1,
       "elite": 0,
       "lv": 1
@@ -3859,6 +4864,8 @@
       ],
       "isSelected": false,
       "type": 0,
+      "skins": [],
+      "selectedSkin": -1,
       "potential": 1,
       "elite": 0,
       "lv": 1
@@ -3882,6 +4889,8 @@
       ],
       "isSelected": false,
       "type": 0,
+      "skins": [],
+      "selectedSkin": -1,
       "potential": 1,
       "elite": 0,
       "lv": 1
@@ -3905,6 +4914,8 @@
       ],
       "isSelected": false,
       "type": 0,
+      "skins": [],
+      "selectedSkin": -1,
       "potential": 1,
       "elite": 0,
       "lv": 1
@@ -3928,6 +4939,14 @@
       ],
       "isSelected": false,
       "type": 0,
+      "skins": [
+        {
+          "id": 190001,
+          "series": "寒武纪™",
+          "name": "模特之夜"
+        }
+      ],
+      "selectedSkin": -1,
       "potential": 1,
       "elite": 0,
       "lv": 1
@@ -3951,6 +4970,19 @@
       ],
       "isSelected": false,
       "type": 0,
+      "skins": [
+        {
+          "id": 190001,
+          "series": "巫异盛宴",
+          "name": "小鬼当家"
+        },
+        {
+          "id": 190002,
+          "series": "珊瑚海岸",
+          "name": "夏卉 FA008"
+        }
+      ],
+      "selectedSkin": -1,
       "potential": 1,
       "elite": 0,
       "lv": 1
@@ -3974,6 +5006,14 @@
       ],
       "isSelected": false,
       "type": 0,
+      "skins": [
+        {
+          "id": 190001,
+          "series": "缠梦古堡",
+          "name": "古堡清洁专家"
+        }
+      ],
+      "selectedSkin": -1,
       "potential": 1,
       "elite": 0,
       "lv": 1
@@ -3997,6 +5037,14 @@
       ],
       "isSelected": false,
       "type": 0,
+      "skins": [
+        {
+          "id": 190001,
+          "series": "时代",
+          "name": "渗透"
+        }
+      ],
+      "selectedSkin": -1,
       "potential": 1,
       "elite": 0,
       "lv": 1
@@ -4020,6 +5068,8 @@
       ],
       "isSelected": false,
       "type": 0,
+      "skins": [],
+      "selectedSkin": -1,
       "potential": 1,
       "elite": 0,
       "lv": 1
@@ -4038,6 +5088,14 @@
       ],
       "isSelected": false,
       "type": 0,
+      "skins": [
+        {
+          "id": 190001,
+          "series": "寒武纪™",
+          "name": "十字郡"
+        }
+      ],
+      "selectedSkin": -1,
       "potential": 1,
       "elite": 0,
       "lv": 1
@@ -4056,6 +5114,8 @@
       ],
       "isSelected": false,
       "type": 0,
+      "skins": [],
+      "selectedSkin": -1,
       "potential": 1,
       "elite": 0,
       "lv": 1
@@ -4074,6 +5134,8 @@
       ],
       "isSelected": false,
       "type": 0,
+      "skins": [],
+      "selectedSkin": -1,
       "potential": 1,
       "elite": 0,
       "lv": 1
@@ -4092,6 +5154,14 @@
       ],
       "isSelected": false,
       "type": 0,
+      "skins": [
+        {
+          "id": 190001,
+          "series": "巫异盛宴",
+          "name": "魔术师"
+        }
+      ],
+      "selectedSkin": -1,
       "potential": 1,
       "elite": 0,
       "lv": 1
@@ -4110,6 +5180,8 @@
       ],
       "isSelected": false,
       "type": 0,
+      "skins": [],
+      "selectedSkin": -1,
       "potential": 1,
       "elite": 0,
       "lv": 1
@@ -4128,6 +5200,8 @@
       ],
       "isSelected": false,
       "type": 0,
+      "skins": [],
+      "selectedSkin": -1,
       "potential": 1,
       "elite": 0,
       "lv": 1
@@ -4146,6 +5220,14 @@
       ],
       "isSelected": false,
       "type": 0,
+      "skins": [
+        {
+          "id": 190001,
+          "series": "时代",
+          "name": "威塞克斯的信件"
+        }
+      ],
+      "selectedSkin": -1,
       "potential": 1,
       "elite": 0,
       "lv": 1
@@ -4164,6 +5246,14 @@
       ],
       "isSelected": false,
       "type": 0,
+      "skins": [
+        {
+          "id": 190001,
+          "series": "斗争血脉",
+          "name": "第七夜苏醒魔君"
+        }
+      ],
+      "selectedSkin": -1,
       "potential": 1,
       "elite": 0,
       "lv": 1
@@ -4182,6 +5272,8 @@
       ],
       "isSelected": false,
       "type": 0,
+      "skins": [],
+      "selectedSkin": -1,
       "potential": 1,
       "elite": 0,
       "lv": 1
@@ -4200,6 +5292,8 @@
       ],
       "isSelected": false,
       "type": 0,
+      "skins": [],
+      "selectedSkin": -1,
       "potential": 1,
       "elite": 0,
       "lv": 1
@@ -4218,6 +5312,8 @@
       ],
       "isSelected": false,
       "type": 0,
+      "skins": [],
+      "selectedSkin": -1,
       "potential": 1,
       "elite": 0,
       "lv": 1
@@ -4236,6 +5332,14 @@
       ],
       "isSelected": false,
       "type": 0,
+      "skins": [
+        {
+          "id": 190001,
+          "series": "0011™制造",
+          "name": "守岁人"
+        }
+      ],
+      "selectedSkin": -1,
       "potential": 1,
       "elite": 0,
       "lv": 1
@@ -4254,6 +5358,14 @@
       ],
       "isSelected": false,
       "type": 0,
+      "skins": [
+        {
+          "id": 190001,
+          "series": "珊瑚海岸",
+          "name": "悠然假日 HDm06"
+        }
+      ],
+      "selectedSkin": -1,
       "potential": 1,
       "elite": 0,
       "lv": 1
@@ -4272,6 +5384,14 @@
       ],
       "isSelected": false,
       "type": 0,
+      "skins": [
+        {
+          "id": 190001,
+          "series": "冰原信使",
+          "name": "快乐卫士"
+        }
+      ],
+      "selectedSkin": -1,
       "potential": 1,
       "elite": 0,
       "lv": 1
@@ -4290,6 +5410,14 @@
       ],
       "isSelected": false,
       "type": 0,
+      "skins": [
+        {
+          "id": 190001,
+          "series": "斗争血脉",
+          "name": "无畏"
+        }
+      ],
+      "selectedSkin": -1,
       "potential": 1,
       "elite": 0,
       "lv": 1
@@ -4308,6 +5436,14 @@
       ],
       "isSelected": false,
       "type": 0,
+      "skins": [
+        {
+          "id": 190001,
+          "series": "斗争血脉",
+          "name": "专业人士"
+        }
+      ],
+      "selectedSkin": -1,
       "potential": 1,
       "elite": 0,
       "lv": 1
@@ -4326,6 +5462,8 @@
       ],
       "isSelected": false,
       "type": 0,
+      "skins": [],
+      "selectedSkin": -1,
       "potential": 1,
       "elite": 0,
       "lv": 1
@@ -4338,6 +5476,8 @@
       "skills": [],
       "isSelected": false,
       "type": 0,
+      "skins": [],
+      "selectedSkin": -1,
       "potential": 1,
       "elite": 0,
       "lv": 1
@@ -4350,6 +5490,8 @@
       "skills": [],
       "isSelected": false,
       "type": 0,
+      "skins": [],
+      "selectedSkin": -1,
       "potential": 1,
       "elite": 0,
       "lv": 1
@@ -4362,6 +5504,8 @@
       "skills": [],
       "isSelected": false,
       "type": 0,
+      "skins": [],
+      "selectedSkin": -1,
       "potential": 1,
       "elite": 0,
       "lv": 1
@@ -4374,6 +5518,8 @@
       "skills": [],
       "isSelected": false,
       "type": 0,
+      "skins": [],
+      "selectedSkin": -1,
       "potential": 1,
       "elite": 0,
       "lv": 1
@@ -4386,6 +5532,8 @@
       "skills": [],
       "isSelected": false,
       "type": 0,
+      "skins": [],
+      "selectedSkin": -1,
       "potential": 1,
       "elite": 0,
       "lv": 1
@@ -4398,6 +5546,14 @@
       "skills": [],
       "isSelected": false,
       "type": 0,
+      "skins": [
+        {
+          "id": 190001,
+          "series": "珊瑚海岸",
+          "name": "SUM019.ver"
+        }
+      ],
+      "selectedSkin": -1,
       "potential": 1,
       "elite": 0,
       "lv": 1
@@ -4410,6 +5566,8 @@
       "skills": [],
       "isSelected": false,
       "type": 0,
+      "skins": [],
+      "selectedSkin": -1,
       "potential": 1,
       "elite": 0,
       "lv": 1
@@ -4422,6 +5580,8 @@
       "skills": [],
       "isSelected": false,
       "type": 0,
+      "skins": [],
+      "selectedSkin": -1,
       "potential": 1,
       "elite": 0,
       "lv": 1
@@ -4445,6 +5605,8 @@
       ],
       "isSelected": false,
       "type": 0,
+      "skins": [],
+      "selectedSkin": -1,
       "potential": 1,
       "elite": 2,
       "lv": 1
@@ -4473,6 +5635,24 @@
       ],
       "isSelected": false,
       "type": 0,
+      "skins": [
+        {
+          "id": 190001,
+          "series": "忒斯特收藏",
+          "name": "报童"
+        },
+        {
+          "id": 190002,
+          "series": "忒斯特收藏",
+          "name": "见习联结者"
+        },
+        {
+          "id": 190003,
+          "series": "忒斯特收藏",
+          "name": "播种者"
+        }
+      ],
+      "selectedSkin": -1,
       "potential": 1,
       "elite": 0,
       "lv": 1
