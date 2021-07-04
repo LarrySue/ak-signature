@@ -641,6 +641,36 @@
       "lv": 1
     },
     {
+      "id": 6030009,
+      "name": "帕拉斯",
+      "class": 2,
+      "star": 6,
+      "skills": [
+        {
+          "id": 0,
+          "name": "胜利的连击",
+          "rank": 0
+        },
+        {
+          "id": 0,
+          "name": "信念的长鞭",
+          "rank": 0
+        },
+        {
+          "id": 0,
+          "name": "英勇的祝福",
+          "rank": 0
+        }
+      ],
+      "isSelected": false,
+      "type": 0,
+      "skins": [],
+      "selectedSkin": -1,
+      "potential": 1,
+      "elite": 0,
+      "lv": 1
+    },
+    {
       "id": 6040001,
       "name": "伊芙利特",
       "class": 3,
@@ -2607,7 +2637,13 @@
       ],
       "isSelected": false,
       "type": 0,
-      "skins": [],
+      "skins": [
+        {
+          "id": 190001,
+          "series": "时代",
+          "name": "白沙"
+        }
+      ],
       "selectedSkin": -1,
       "potential": 1,
       "elite": 0,
@@ -2905,7 +2941,13 @@
       ],
       "isSelected": false,
       "type": 0,
-      "skins": [],
+      "skins": [
+        {
+          "id": 190001,
+          "series": "生命之地",
+          "name": "残葛"
+        }
+      ],
       "selectedSkin": -1,
       "potential": 1,
       "elite": 0,
@@ -3425,7 +3467,13 @@
       ],
       "isSelected": false,
       "type": 0,
-      "skins": [],
+      "skins": [
+        {
+          "id": 190001,
+          "series": "时代",
+          "name": "伦式巫女"
+        }
+      ],
       "selectedSkin": -1,
       "potential": 1,
       "elite": 0,
@@ -4645,6 +4693,11 @@
           "id": 190001,
           "series": "忒斯特收藏",
           "name": "植物种志"
+        },
+        {
+          "id": 190002,
+          "series": "时代",
+          "name": "闲适午后"
         }
       ],
       "selectedSkin": -1,
@@ -4914,7 +4967,13 @@
       ],
       "isSelected": false,
       "type": 0,
-      "skins": [],
+      "skins": [
+        {
+          "id": 190001,
+          "series": "时代",
+          "name": "小憩初醒"
+        }
+      ],
       "selectedSkin": -1,
       "potential": 1,
       "elite": 0,
