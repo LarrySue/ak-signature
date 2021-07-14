@@ -2750,31 +2750,6 @@
       "lv": 1
     },
     {
-      "id": 5040011,
-      "name": "深靛",
-      "class": 3,
-      "star": 5,
-      "skills": [
-        {
-          "id": 0,
-          "name": "灯塔守卫者",
-          "rank": 0
-        },
-        {
-          "id": 0,
-          "name": "光影迷宫",
-          "rank": 0
-        }
-      ],
-      "isSelected": false,
-      "type": 0,
-      "skins": [],
-      "selectedSkin": -1,
-      "potential": 1,
-      "elite": 0,
-      "lv": 1
-    },
-    {
       "id": 5050001,
       "name": "白面鸮",
       "class": 4,
@@ -4596,6 +4571,31 @@
         {
           "id": 0,
           "name": "同步索敌攻击",
+          "rank": 0
+        }
+      ],
+      "isSelected": false,
+      "type": 0,
+      "skins": [],
+      "selectedSkin": -1,
+      "potential": 1,
+      "elite": 0,
+      "lv": 1
+    },
+    {
+      "id": 4040005,
+      "name": "深靛",
+      "class": 3,
+      "star": 4,
+      "skills": [
+        {
+          "id": 0,
+          "name": "灯塔守卫者",
+          "rank": 0
+        },
+        {
+          "id": 0,
+          "name": "光影迷宫",
           "rank": 0
         }
       ],
